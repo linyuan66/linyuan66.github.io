@@ -1,15 +1,33 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8"/>
-	<title>个人简介</title>
-	<style>
+	<title>跳转</title>
+	<style type="text/css">
+		.kuang{
+			border-color: black;
+			border-width: 1px;
+			border-radius: 5px;
+			background-color: rgb(250,250,250);
+			width: 800px;
+			height: 400px;
+			box-shadow: 5px 5px 5px 4px #000;
+			opacity: 0.8;
+		}
+		.kuang1{
+			border-color: black;
+			border-width: 1px;
+			border-radius: 5px;
+			background-color: rgb(250,250,250);
+			width: 700px;
+			height: 1240px;
+			box-shadow: 5px 5px 5px 4px #000;
+			opacity: 0.8;
+		}
 		body{
-			background:url(image/bj.jpg);
-			background-size: 100%;
+			background-image: url(image/bj2.jpg);
 			background-attachment:fixed;
-			margin-bottom: 100px;
+			background-size: 110%;
+			/*margin-bottom: 100px;*/
 			text-align:center;
 		}
 		h2{
@@ -40,7 +58,7 @@
 	    	width: 200px;
 	    	height: 100px;
 	    }
-	    .kuang{
+	    .kuangk{
 	    	border-width: 1px;
 	    	border-radius: 5px; 
 	    	border-color: black;
@@ -52,18 +70,14 @@
 	    	list-style-type: none;
 	    }
 	</style>
-	<script type="text/javascript">
-		function clickaa(){
-			console.log('111')
-			location.assign('https://www.baidu.com');
-		}
-	</script>
 </head>
 <body>
-	
-	<div>
-		<h1>你好!! 欢迎来到林圆的个人网站！</h1>
-		<img alt="随便放的图片" class="border" width="300" height="300" src="image/tou.JPG">
+	<h1>你好!! 欢迎来到林圆的个人网站！</h1>
+	<br>
+	<div style="margin-top: 20px">
+		<div class="kuang1" style="background-image: url(image/lv1.jpg);background-size: 270%;display: inline-block;margin-left: 50px;margin-right: 50px;margin-top: 10px;margin-bottom: 20px">
+			<br><br><br>
+			<img alt="随便放的图片" class="border" width="300" height="300" src="image/tou.jpg">
 			<h2>姓名: <strong>林圆</strong></h2>
 			<h2>学历：<strong>本科</strong></h2>
 			<h2>联系方式：</h2>
@@ -76,62 +90,61 @@
 			<div>
 				<p>QQ邮箱：948967687com@qq.com</p>
 			</div>
-				
+
+			<h2>学校：</h2>
+				<p style="margin-top: 10px">厦门理工学院</p>
+			<h2>系别：</h2>
+				<p style="margin-top: 10px">数字媒体系</p>
+			<h2>专业：</h2>
+				<p style="margin-top: 10px">新媒体专业</p>
 			<h2>个人优点：</h2>
-				<p style="margin-top: 10px">无</p>
-			<h2>工作经验：</h2>
 				<p style="margin-top: 10px">无</p>
 			<h2>个人说明：</h2>
 				<p style="margin-top: 10px">无</p>
-			<h2>作品介绍：</h2>
-			<div>
-				<div class="kuang" style="display: inline-block;margin-left: 20px;margin-right: 20px">
-					<strong>翻滚熊猫</strong><br><br>
-					<a href="https://itunes.apple.com/fr/app/%E7%BF%BB%E6%BB%9A%E7%86%8A%E7%8C%AB/id1267809663?mt=8"><img src="image/mao.jpg" width="80" height="64" alt="翻滚熊猫游戏"></a>
-					<p style="color: gray">作品介绍：益智类游戏</p>
-					<p style="color: gray">		通过手指划过屏幕来制造线条，让熊猫宝宝滚过线条找妈妈</p>
-				</div>
-				<div class="kuang" style="display: inline-block;margin-left: 20px;margin-right: 20px">
-					<strong>翻滚熊猫</strong><br><br>
-					<a href="https://itunes.apple.com/fr/app/%E7%BF%BB%E6%BB%9A%E7%86%8A%E7%8C%AB/id1267809663?mt=8"><img src="image/mao.jpg" width="80" height="64" alt="翻滚熊猫游戏"></a>
-					<p style="color: gray">作品介绍：益智类游戏</p>
-					<p style="color: gray">		通过手指划过屏幕来制造线条，让熊猫宝宝滚过线条找妈妈</p>
-				</div>
-				<div class="kuang" style="display: inline-block;margin-left: 20px;margin-right: 20px">
-					<strong>翻滚熊猫</strong><br><br>
-					<a href="https://itunes.apple.com/fr/app/%E7%BF%BB%E6%BB%9A%E7%86%8A%E7%8C%AB/id1267809663?mt=8"><img src="image/mao.jpg" width="80" height="64" alt="翻滚熊猫游戏"></a>
-					<p style="color: gray">作品介绍：益智类游戏</p>
-					<p style="color: gray">		通过手指划过屏幕来制造线条，让熊猫宝宝滚过线条找妈妈</p>
-				</div>
-			</div>
-			<br>
-			<h2 class="color">获得的荣誉：</h2>
+			<h2>工作经验：</h2>
 				<p style="margin-top: 10px">无</p>
-			<h2>评价：</h2>
-				<textarea style="width: 600px;height: 300px" placeholder="留言"></textarea>
-			<br><br>
-			<button onclick="clickaa()">百度</button><br><br>
-			<img src="image/wei.png" width="100" height="100"><br><br>
-			<div>
-				<div style="display: inline-block;margin-right: 10px;margin-left: 10px">
-					<a href="132.html">刷新</a>
+
+		</div>
+		<div style="display: inline-block;margin-top: 20px">
+			<div class="kuang" style="background-image: url(image/lv1.jpg);margin-left: 50px;margin-right: 50px;margin-top: 20px;margin-bottom: 20px">
+				<h2>作品介绍：</h2>
+				<div class="kuangk" style="display: inline-block;margin-left: 20px;margin-right: 20px;margin-top: 20px">
+					<strong>翻滚熊猫</strong><br><br>
+					<a href="https://itunes.apple.com/fr/app/%E7%BF%BB%E6%BB%9A%E7%86%8A%E7%8C%AB/id1267809663?mt=8"><img src="image/mao.jpg" width="80" height="64" alt="翻滚熊猫游戏"></a>
+					<p style="color: gray">作品介绍：益智类游戏</p>
+					<p style="color: gray">		通过手指划过屏幕来制造线条，让熊猫宝宝滚过线条找妈妈</p>
 				</div>
-				<div style="display: inline-block;margin-right: 10px;margin-left: 10px">
-					<a href="#">回顶部</a>
+				<div class="kuangk" style="display: inline-block;margin-left: 20px;margin-right: 20px;margin-top: 20px">
+					<strong>涂涂画画</strong><br><br>
+					<a href="https://itunes.apple.com/fr/app/%E7%BF%BB%E6%BB%9A%E7%86%8A%E7%8C%AB/id1267809663?mt=8"><img src="image/hua.jpg" width="80" height="64" alt="涂涂画画游戏"></a>
+					<p style="color: gray">作品介绍：益智类游戏</p>
+					<p style="color: gray">		包含上色，拼图，绘画等多种模式，有益于孩子培养画画能力</p>
+				</div>
+				<div class="kuangk" style="display: inline-block;margin-left: 20px;margin-right: 20px;margin-top: 20px">
+					<strong>大家来找茬</strong><br><br>
+					<a href="https://itunes.apple.com/fr/app/%E7%BF%BB%E6%BB%9A%E7%86%8A%E7%8C%AB/id1267809663?mt=8"><img src="image/zhao.jpg" width="80" height="64" alt="大家来找茬游戏"></a>
+					<p style="color: gray">作品介绍：益智类游戏</p>
+					<p style="color: gray">		通过手指点击屏幕来找不同，找到5个不同处过关，有益于培养孩子观察力</p>
 				</div>
 			</div>
-
-			<!-- <label><input type="radio" name="indoor-outdoor" checked> 同意</label>
-			<label><input type="radio" name="indoor-outdoor" checked> 非常同意</label>
-		
-		
-		<p><a href="#" class="color">固定链接</a>不会跳转</p>
-		<form>
-			<p>姓名<input type="text" placeholder="填写你的姓名"></p>
-			<p>班级<input type="text" placeholder="填写你的班级" /></p>
-			<button type="button" style="width:200px;height:50px;">go</button>
-		</form>  -->
+			<div class="kuang" style="background-image: url(image/lv2.jpg);margin-left: 50px;margin-right: 50px;margin-top: 20px;margin-bottom: 20px">
+				<h2 class="color">获得的荣誉：</h2>
+				<br>
+				<img alt="随便放的图片" width="400" height="300" src="image/jiang.jpg">
+			</div>
+			<div class="kuang" style="background-image: url(image/lv3.jpg);margin-left: 50px;margin-right: 50px;margin-top: 20px;margin-bottom: 20px">
+				<h2>评价：</h2>
+				<textarea style="width: 600px;height: 300px" placeholder="留言"></textarea>
+			</div>
+		</div>
+	</div>
+	<button onclick="clickaa()">百度搜索一下</button><br><br>
+		<img src="image/wei.png" width="100" height="100"><br><br>
+	<div style="display: inline-block;margin-right: 10px;margin-left: 10px">
+		<a href="132.html">刷新</a>
+	</div>
+	<div style="display: inline-block;margin-right: 10px;margin-left: 10px">
+		<a href="#">回顶部</a>
 	</div>
 </body>
-
 </html>
