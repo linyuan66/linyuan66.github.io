@@ -235,253 +235,258 @@ _CCSettings = {
                 2,
                 1
             ],
-            "47": [
+            "48": [
                 "resources/normal/按钮/eye",
                 2,
                 1
             ],
-            "48": [
+            "49": [
                 "resources/New Folder/up",
                 2,
                 1
             ],
-            "49": [
+            "50": [
                 "resources/New Folder/level24",
                 2,
                 1
             ],
-            "50": [
+            "51": [
                 "resources/normal/按钮/xianglianlogo",
                 2,
                 1
             ],
-            "51": [
+            "52": [
                 "resources/New Folder/583122252963070329",
                 2,
                 1
             ],
-            "52": [
+            "53": [
                 "resources/New Folder/level11",
                 2,
                 1
             ],
-            "53": [
+            "54": [
                 "resources/normal/按钮/qunzilogo",
                 2,
                 1
             ],
-            "54": [
+            "55": [
                 "resources/normal/场景/关卡背景/sha",
                 2,
                 1
             ],
-            "55": [
+            "56": [
                 "resources/New Folder/功能键-收集球",
                 2,
                 1
             ],
-            "56": [
+            "57": [
                 "resources/New Folder/level23",
                 2,
                 1
             ],
-            "57": [
+            "58": [
                 "resources/normal/按钮/220972762987357147",
                 2,
                 1
             ],
-            "58": [
+            "59": [
                 "resources/New Folder/choose3",
                 2,
                 1
             ],
-            "59": [
+            "60": [
                 "resources/New Folder/photoBtn",
                 2,
                 1
             ],
-            "60": [
+            "61": [
                 "resources/New Folder/功能键-拍照",
                 2,
                 1
             ],
-            "61": [
+            "62": [
                 "resources/New Folder/844989763257548387",
                 2,
                 1
             ],
-            "62": [
+            "63": [
                 "resources/photo/333",
                 2,
                 1
             ],
-            "63": [
+            "64": [
                 "resources/photo/152",
                 2,
                 1
             ],
-            "64": [
+            "65": [
                 "resources/New Folder/musicBack",
                 2,
                 1
             ],
-            "65": [
+            "66": [
                 "resources/New Folder/level34",
                 2,
                 1
             ],
-            "67": [
+            "68": [
                 "resources/New Folder/level44",
                 2,
                 1
             ],
-            "68": [
+            "69": [
                 "resources/normal/按钮/xiezilogo",
                 2,
                 1
             ],
-            "70": [
+            "71": [
                 "resources/normal/按钮/back",
                 2,
                 1
             ],
-            "71": [
+            "72": [
                 "resources/New Folder/level21",
                 2,
                 1
             ],
-            "72": [
+            "73": [
                 "resources/New Folder/main",
                 2,
                 1
             ],
-            "73": [
+            "74": [
                 "resources/New Folder/level32",
                 2,
                 1
             ],
-            "74": [
-                "resources/New Folder/xiangCeBg",
-                2,
-                1
-            ],
             "75": [
-                "resources/photo/144",
+                "resources/New Folder/zi1",
                 2,
                 1
             ],
             "76": [
-                "resources/photo/214",
-                2,
-                1
-            ],
-            "77": [
-                "resources/normal/按钮/del",
-                2,
-                1
-            ],
-            "78": [
-                "resources/photo/353",
-                2,
-                1
-            ],
-            "79": [
-                "resources/normal/场景/xiangkuang",
-                2,
-                1
-            ],
-            "80": [
-                "resources/photo/241",
-                2,
-                1
-            ],
-            "81": [
-                "resources/photo/111",
-                2,
-                1
-            ],
-            "83": [
-                "resources/photo/442",
-                2,
-                1
-            ],
-            "84": [
-                "resources/photo/454",
-                2,
-                1
-            ],
-            "85": [
-                "resources/photo/232",
-                2,
-                1
-            ],
-            "86": [
-                "resources/photo/341",
-                2,
-                1
-            ],
-            "87": [
-                "resources/photo/121",
-                2,
-                1
-            ],
-            "88": [
-                "resources/photo/414",
-                2,
-                1
-            ],
-            "89": [
-                "resources/photo/132",
-                2,
-                1
-            ],
-            "90": [
-                "resources/photo/323",
-                2,
-                1
-            ],
-            "91": [
-                "resources/photo/434",
-                2,
-                1
-            ],
-            "92": [
-                "resources/photo/423",
-                2,
-                1
-            ],
-            "93": [
-                "resources/photo/311",
-                2,
-                1
-            ],
-            "94": [
                 "resources/New Folder/choose3s",
                 2,
                 1
             ],
-            "95": [
+            "77": [
                 "resources/New Folder/down",
                 2,
                 1
             ],
-            "96": [
+            "78": [
                 "resources/New Folder/choosebg",
                 2,
                 1
             ],
-            "97": [
+            "79": [
                 "resources/New Folder/choose2s",
                 2,
                 1
             ],
-            "98": [
+            "80": [
                 "resources/New Folder/lock",
                 2,
                 1
             ],
-            "99": [
+            "81": [
                 "resources/New Folder/choose4s",
+                2,
+                1
+            ],
+            "83": [
+                "resources/New Folder/xiangCeBg",
+                2,
+                1
+            ],
+            "84": [
+                "resources/photo/144",
+                2,
+                1
+            ],
+            "85": [
+                "resources/photo/214",
+                2,
+                1
+            ],
+            "86": [
+                "resources/normal/按钮/del",
+                2,
+                1
+            ],
+            "87": [
+                "resources/photo/353",
+                2,
+                1
+            ],
+            "88": [
+                "resources/normal/场景/xiangkuang",
+                2,
+                1
+            ],
+            "89": [
+                "resources/photo/241",
+                2,
+                1
+            ],
+            "90": [
+                "resources/photo/111",
+                2,
+                1
+            ],
+            "92": [
+                "resources/photo/442",
+                2,
+                1
+            ],
+            "93": [
+                "resources/photo/454",
+                2,
+                1
+            ],
+            "94": [
+                "resources/photo/232",
+                2,
+                1
+            ],
+            "95": [
+                "resources/photo/341",
+                2,
+                1
+            ],
+            "96": [
+                "resources/photo/121",
+                2,
+                1
+            ],
+            "97": [
+                "resources/photo/414",
+                2,
+                1
+            ],
+            "98": [
+                "resources/photo/132",
+                2,
+                1
+            ],
+            "99": [
+                "resources/photo/323",
+                2,
+                1
+            ],
+            "100": [
+                "resources/photo/434",
+                2,
+                1
+            ],
+            "101": [
+                "resources/photo/423",
+                2,
+                1
+            ],
+            "102": [
+                "resources/photo/311",
                 2,
                 1
             ],
@@ -656,6 +661,15 @@ _CCSettings = {
                 "resources/New Folder/choosebg.png",
                 0
             ],
+            "2cvo56Y9VFZ5FF+GWeh0U0": [
+                "resources/New Folder/dian",
+                2,
+                1
+            ],
+            "18sfN8qb5CeLiUaKxwqagg": [
+                "resources/New Folder/dian.png",
+                0
+            ],
             "acCKFXhZhJuoU8LxT/i5iR": [
                 "resources/New Folder/down.png",
                 0
@@ -805,8 +819,39 @@ _CCSettings = {
                 "resources/New Folder/up.png",
                 0
             ],
+            "2apG0Ti+5P8pq3tsX3Gter": [
+                "resources/New Folder/wtis1",
+                2,
+                1
+            ],
+            "9e3oiL3DdM55+mEHScjDB+": [
+                "resources/New Folder/wtis1.png",
+                0
+            ],
+            "16abS0RcZMmpgzSwMJ4Qy2": [
+                "resources/New Folder/wtis2",
+                2,
+                1
+            ],
+            "ccOsLH0TpEaY+FwEZXPfiy": [
+                "resources/New Folder/wtis2.png",
+                0
+            ],
             "56BKGYP9NEDLJH5G/qS73G": [
                 "resources/New Folder/xiangCeBg.png",
+                0
+            ],
+            "3bEpU0mYdFN5mZWNKkRQJx": [
+                "resources/New Folder/zi1.png",
+                0
+            ],
+            "74DWC7ipVPLY2KnffsI9ME": [
+                "resources/New Folder/zi2",
+                2,
+                1
+            ],
+            "c9Ld8KkbhFtqsawMBtv3E+": [
+                "resources/New Folder/zi2.png",
                 0
             ],
             "5cCT46ZtRLFrOg9K7PRKmu": [
@@ -871,123 +916,6 @@ _CCSettings = {
                 "resources/New Folder/按钮.png",
                 0
             ],
-            "e2GTje4GxFH4AO+gH+IYZ3": [
-                "resources/normal/neck-png/s1",
-                2,
-                1
-            ],
-            "dfbGaFDPFOSpq75Bp9orc3": [
-                "resources/normal/neck-png/s1.png",
-                0
-            ],
-            "aeY3oCJrVI4qh0KY3WQ8ku": [
-                "resources/normal/neck-png/s2",
-                2,
-                1
-            ],
-            "afn88i0b5Jg6/mj7VZoNwa": [
-                "resources/normal/neck-png/s2.png",
-                0
-            ],
-            "3cZKBErGNL5I+n49pRGc4i": [
-                "resources/normal/neck-png/s3",
-                2,
-                1
-            ],
-            "9dL6xylc5ISbIO3Fl7iG9g": [
-                "resources/normal/neck-png/s3.png",
-                0
-            ],
-            "c8Z8DZ4I5FwrqqIkNPl814": [
-                "resources/normal/neck-png/s4",
-                2,
-                1
-            ],
-            "4ccUZH9zhMTLZeRbOGFaYR": [
-                "resources/normal/neck-png/s4.png",
-                0
-            ],
-            "c0cDf8RRNKj6PdnXKnRWaI": [
-                "resources/normal/neck-png/s5",
-                2,
-                1
-            ],
-            "75VbHUuzdIMKFonOwUlfMu": [
-                "resources/normal/neck-png/s5.png",
-                0
-            ],
-            "2fWX1N6RhF4Z+iAORiYwLX": [
-                "resources/normal/neck-png/s6",
-                2,
-                1
-            ],
-            "32DYBV6H1MUaCywuzSLapS": [
-                "resources/normal/neck-png/s6.png",
-                0
-            ],
-            "56gRVYIblId7bh2ZXgORAr": [
-                "resources/normal/neck-png/s7",
-                2,
-                1
-            ],
-            "ccs/P94PFNbq/KzXsfJbFA": [
-                "resources/normal/neck-png/s7.png",
-                0
-            ],
-            "6a0rFiOLZKTZDfGnEdY94Q": [
-                "resources/normal/口红/未标题-9_01",
-                2,
-                1
-            ],
-            "4fufQhV/JAob1mlz7NDKLZ": [
-                "resources/normal/口红/未标题-9_01.png",
-                0
-            ],
-            "d6P7fSN+RJBJBgJgvsnWnU": [
-                "resources/normal/口红/未标题-9_02",
-                2,
-                1
-            ],
-            "45OamUR+1AgLcwtNrUehqq": [
-                "resources/normal/口红/未标题-9_02.png",
-                0
-            ],
-            "5fYzpWsjhFyZg1PU1EUIMW": [
-                "resources/normal/口红/未标题-9_03",
-                2,
-                1
-            ],
-            "01pkEvdVdKTIDyi6eCVaVZ": [
-                "resources/normal/口红/未标题-9_03.png",
-                0
-            ],
-            "89Xt++7uxDfoNsU6G5/8hh": [
-                "resources/normal/口红/未标题-9_04",
-                2,
-                1
-            ],
-            "f3E21Fqd5HyJw/Je5WRpSr": [
-                "resources/normal/口红/未标题-9_04.png",
-                0
-            ],
-            "78dJvdqk9JvKv984c47wM3": [
-                "resources/normal/口红/未标题-9_05",
-                2,
-                1
-            ],
-            "46EGxQ129JAKbVYR5wRT4I": [
-                "resources/normal/口红/未标题-9_05.png",
-                0
-            ],
-            "91C7b8dzhBWqdYRLJd2w02": [
-                "resources/normal/口红/未标题-9_06",
-                2,
-                1
-            ],
-            "18OiSUzWVA34hlGm+rwsfD": [
-                "resources/normal/口红/未标题-9_06.png",
-                0
-            ],
             "32sg/cpohGw5+7OqNYVL0M": [
                 "resources/normal/场景/xiangkuang.png",
                 0
@@ -1010,60 +938,6 @@ _CCSettings = {
             ],
             "6aTcCAMEFBcJz1CmlXYCVD": [
                 "resources/normal/场景/关卡背景/wu.png",
-                0
-            ],
-            "9ajoeqvGhEvbxYdX8aP9vb": [
-                "resources/normal/头发/01",
-                2,
-                1
-            ],
-            "2ebThE8XRAj4ulnvuOloWy": [
-                "resources/normal/头发/01.png",
-                0
-            ],
-            "f2nUMLZ3BNmqai/XeZoAa4": [
-                "resources/normal/头发/02",
-                2,
-                1
-            ],
-            "81fUSWo4RGfqW9zINkCN6k": [
-                "resources/normal/头发/02.png",
-                0
-            ],
-            "b9pmewTFJKz4lXRV4ZCgW0": [
-                "resources/normal/头发/03",
-                2,
-                1
-            ],
-            "94LokNbvBIz6psuSsoHuDm": [
-                "resources/normal/头发/03.png",
-                0
-            ],
-            "93NWX6s3hMEKozBPatdu88": [
-                "resources/normal/头发/04",
-                2,
-                1
-            ],
-            "69tzVhYy5LT5ojwWf432TJ": [
-                "resources/normal/头发/04.png",
-                0
-            ],
-            "72/j+byy5IppCzLVNOl90C": [
-                "resources/normal/头发/05",
-                2,
-                1
-            ],
-            "71pMz7eWFPILyrpOQSelPm": [
-                "resources/normal/头发/05.png",
-                0
-            ],
-            "eepUBOSlJO9a3uQ9c0U+8b": [
-                "resources/normal/头发/06",
-                2,
-                1
-            ],
-            "e0+bWvFdRLeLbnouYDMqIA": [
-                "resources/normal/头发/06.png",
                 0
             ],
             "d3SLLX0AhCXIVWriHP4R6F": [
@@ -1221,519 +1095,6 @@ _CCSettings = {
             ],
             "34iqrdM5FB6pWvcf2uv00w": [
                 "resources/normal/按钮/裙子.png",
-                0
-            ],
-            "95tSkHcRhDLZ5w1kCDpJNt": [
-                "resources/normal/美瞳/未标题-9_01",
-                2,
-                1
-            ],
-            "407qubzWxAAqro/951nU4w": [
-                "resources/normal/美瞳/未标题-9_01.png",
-                0
-            ],
-            "7343hrEX5Hb59cryfqw+Os": [
-                "resources/normal/美瞳/未标题-9_02",
-                2,
-                1
-            ],
-            "3dHeATLrFAdIO0ipQdrTNV": [
-                "resources/normal/美瞳/未标题-9_02.png",
-                0
-            ],
-            "6b+IHU3ZhOFbnTWox3r/YK": [
-                "resources/normal/美瞳/未标题-9_03",
-                2,
-                1
-            ],
-            "c9QoBvc8ZLRYG1Xk9KwYQt": [
-                "resources/normal/美瞳/未标题-9_03.png",
-                0
-            ],
-            "0d7g1R0FxFiLHCoMr+M36A": [
-                "resources/normal/美瞳/未标题-9_04",
-                2,
-                1
-            ],
-            "a2PLl/LrtCgLXGlY8rygbC": [
-                "resources/normal/美瞳/未标题-9_04.png",
-                0
-            ],
-            "c1q+gZBWVNV51UzunWGsed": [
-                "resources/normal/美瞳/未标题-9_05",
-                2,
-                1
-            ],
-            "13NJu6JC5P04HIePZKjIxP": [
-                "resources/normal/美瞳/未标题-9_05.png",
-                0
-            ],
-            "b7qyQEbv9BTL8aViGqXgq9": [
-                "resources/normal/美瞳/未标题-9_06",
-                2,
-                1
-            ],
-            "94iOm0fJ5H0p6mBbSRcmNr": [
-                "resources/normal/美瞳/未标题-9_06.png",
-                0
-            ],
-            "6ajKxpk8RA3Z4E4FQOMHvp": [
-                "resources/normal/衣服/衣裙1（完成）",
-                2,
-                1
-            ],
-            "2f0QVqOzJD56J6/KLnVQye": [
-                "resources/normal/衣服/衣裙1（完成）.png",
-                0
-            ],
-            "870pedGltLooCWd8WyjVzp": [
-                "resources/normal/衣服/裙子3（完成）",
-                2,
-                1
-            ],
-            "edeNV0KcVGua10hvaGApd9": [
-                "resources/normal/衣服/裙子3（完成）.png",
-                0
-            ],
-            "0e6qU3G2NG9a0B/htrknGP": [
-                "resources/normal/衣服/裙子4（完成）",
-                2,
-                1
-            ],
-            "29M6jgh2pFx4PBjlA8RBqr": [
-                "resources/normal/衣服/裙子4（完成）.png",
-                0
-            ],
-            "9bacbARF5IS79rsyVglDpP": [
-                "resources/normal/衣服/裙子5（完成）",
-                2,
-                1
-            ],
-            "8bBmHIYsdCGLncXwNIp2pt": [
-                "resources/normal/衣服/裙子5（完成）.png",
-                0
-            ],
-            "93b5isMlVCqom2LmIOz0rp": [
-                "resources/normal/衣服/裙子6（完成）",
-                2,
-                1
-            ],
-            "d3tG5kFdZLFIumvquc2KwJ": [
-                "resources/normal/衣服/裙子6（完成）.png",
-                0
-            ],
-            "a5+nCdmcdLMKvsw7XGlAC2": [
-                "resources/normal/衣服/裙子套2（完成）",
-                2,
-                1
-            ],
-            "18+zsx5kBDKqiEHOJ+opXL": [
-                "resources/normal/衣服/裙子套2（完成）.png",
-                0
-            ],
-            "4d3VWNKThArpu2218olaW4": [
-                "resources/normal/调用/1/人物",
-                2,
-                1
-            ],
-            "0e58rXlRZF/5XN7I7IFWT+": [
-                "resources/normal/调用/1/人物.png",
-                0
-            ],
-            "33og60snBCdodUYLWJfZQz": [
-                "resources/normal/调用/1/口红1",
-                2,
-                1
-            ],
-            "e5MbXhNupNQozmKkeDi8et": [
-                "resources/normal/调用/1/口红1.png",
-                0
-            ],
-            "71qWPZN6JD1JsrYAzZWUFR": [
-                "resources/normal/调用/1/头发1",
-                2,
-                1
-            ],
-            "78Qr552WNHNYmgCnG/7GyE": [
-                "resources/normal/调用/1/头发1.png",
-                0
-            ],
-            "f14upBaPRD7ZWFdsnvYNWc": [
-                "resources/normal/调用/1/眼瞳1",
-                2,
-                1
-            ],
-            "b5lnDUCy9NaJr5cxbNkusx": [
-                "resources/normal/调用/1/眼瞳1.png",
-                0
-            ],
-            "b5T4kHZgVPWrC+B/gC6Rfy": [
-                "resources/normal/调用/1/裙子1",
-                2,
-                1
-            ],
-            "79AE9C9u1PVpSodTwlNwt8": [
-                "resources/normal/调用/1/裙子1.png",
-                0
-            ],
-            "7d299M061E6KuAb0IAJyft": [
-                "resources/normal/调用/1/鞋子1",
-                2,
-                1
-            ],
-            "b4ag4xaHtEYr7aHaUOH4v5": [
-                "resources/normal/调用/1/鞋子1.png",
-                0
-            ],
-            "c2y/uVZGNBCJGAy1UcdoJ9": [
-                "resources/normal/调用/1/项链1",
-                2,
-                1
-            ],
-            "9bznE2X9BHdZYWN206Q2V8": [
-                "resources/normal/调用/1/项链1.png",
-                0
-            ],
-            "dacJJpIyVDeLHABMy2Fhtr": [
-                "resources/normal/调用/2/口红2",
-                2,
-                1
-            ],
-            "83EMmZ5hhLJJB0CzTl3bKw": [
-                "resources/normal/调用/2/口红2.png",
-                0
-            ],
-            "bez6OyNXFN26fF9/wGhNBX": [
-                "resources/normal/调用/2/头发2",
-                2,
-                1
-            ],
-            "d5v+M6jhRMEpcKkhLrLwqK": [
-                "resources/normal/调用/2/头发2.png",
-                0
-            ],
-            "59/8n0/fdEQIXR04YJQXIq": [
-                "resources/normal/调用/2/眼瞳2",
-                2,
-                1
-            ],
-            "98ywcgjJdJ4oOvW9j8IQwG": [
-                "resources/normal/调用/2/眼瞳2.png",
-                0
-            ],
-            "32lbgp5OFKlbeeSfXbD+V6": [
-                "resources/normal/调用/2/裙子2",
-                2,
-                1
-            ],
-            "9cMfsWEfZLprcw3zUGSBEH": [
-                "resources/normal/调用/2/裙子2.png",
-                0
-            ],
-            "31JMsV+xZMfrniVto+pb4H": [
-                "resources/normal/调用/2/鞋子2",
-                2,
-                1
-            ],
-            "02LqpsMVtN0KJ/H1fy82Vh": [
-                "resources/normal/调用/2/鞋子2.png",
-                0
-            ],
-            "47acnP0w9MjZqXRy2nmq9I": [
-                "resources/normal/调用/2/项链2",
-                2,
-                1
-            ],
-            "7cCxgCqkxP+aiQ5bka+Xf1": [
-                "resources/normal/调用/2/项链2.png",
-                0
-            ],
-            "89hr3sffVB3qGBkrW3yaYG": [
-                "resources/normal/调用/3/口红3",
-                2,
-                1
-            ],
-            "95vzVgYOxDV51JieEQosCk": [
-                "resources/normal/调用/3/口红3.png",
-                0
-            ],
-            "b18cmMXGZEFIcBw+xXU7fQ": [
-                "resources/normal/调用/3/头发3",
-                2,
-                1
-            ],
-            "0enYq4n5NApIZa0wB84rCW": [
-                "resources/normal/调用/3/头发3.png",
-                0
-            ],
-            "59+4oFyTpGTKhhskRAH2or": [
-                "resources/normal/调用/3/眼瞳3",
-                2,
-                1
-            ],
-            "b6ek4EP2tKQqYYiILh0qPf": [
-                "resources/normal/调用/3/眼瞳3.png",
-                0
-            ],
-            "62STEfKgVO944XO4pek2yy": [
-                "resources/normal/调用/3/裙子3",
-                2,
-                1
-            ],
-            "aeFbdAg41Olo0MpmojNxYE": [
-                "resources/normal/调用/3/裙子3.png",
-                0
-            ],
-            "e47u2CFW9PBa6otvbbmbAN": [
-                "resources/normal/调用/3/鞋子3",
-                2,
-                1
-            ],
-            "0eNU2XMxhO6qm2tP0jDlDU": [
-                "resources/normal/调用/3/鞋子3.png",
-                0
-            ],
-            "1e5uuZ4wlPs7zy88jSgPSs": [
-                "resources/normal/调用/3/项链3",
-                2,
-                1
-            ],
-            "1fy1gSYW9Dao1CJpHKT+Us": [
-                "resources/normal/调用/3/项链3.png",
-                0
-            ],
-            "550UQ6hCtB9azhZeSvuAwj": [
-                "resources/normal/调用/4/口红4",
-                2,
-                1
-            ],
-            "d705CdzbxFfqke91IcFNg7": [
-                "resources/normal/调用/4/口红4.png",
-                0
-            ],
-            "f8V7vWFb9IU4BbfOswl719": [
-                "resources/normal/调用/4/头发4",
-                2,
-                1
-            ],
-            "16cqlgsC5Dp4cXrq7ZM9aU": [
-                "resources/normal/调用/4/头发4.png",
-                0
-            ],
-            "efFCovYexEkYwTR3aAhQJE": [
-                "resources/normal/调用/4/眼瞳4",
-                2,
-                1
-            ],
-            "43SCWbn9NAQohnh56uUDuW": [
-                "resources/normal/调用/4/眼瞳4.png",
-                0
-            ],
-            "73hrk8sylOb69DjGZ6LUgV": [
-                "resources/normal/调用/4/裙子4",
-                2,
-                1
-            ],
-            "efW1xUWGxMD5i3HHpoSdOi": [
-                "resources/normal/调用/4/裙子4.png",
-                0
-            ],
-            "8biTrSJQ5Jl6FleVTSqsM/": [
-                "resources/normal/调用/4/鞋子4",
-                2,
-                1
-            ],
-            "bezK4+g2tBJJrAVn+TFTzr": [
-                "resources/normal/调用/4/鞋子4.png",
-                0
-            ],
-            "fcqAIzFBxMkJSshVA71zCh": [
-                "resources/normal/调用/4/项链4",
-                2,
-                1
-            ],
-            "ebHQbz2nBHo4WZnOWgK7qU": [
-                "resources/normal/调用/4/项链4.png",
-                0
-            ],
-            "c3u3qliexIBrPKyiAJ9Wd/": [
-                "resources/normal/调用/5/口红5",
-                2,
-                1
-            ],
-            "f53btMCL1NDY/GJs5Tk93y": [
-                "resources/normal/调用/5/口红5.png",
-                0
-            ],
-            "d4yLw2C+FLIJBqZ/xG82nV": [
-                "resources/normal/调用/5/头发5",
-                2,
-                1
-            ],
-            "72Y/KOQ3ZHZZavjBUNTIWu": [
-                "resources/normal/调用/5/头发5.png",
-                0
-            ],
-            "e3zzEzh+BEwLtTxYhukiug": [
-                "resources/normal/调用/5/眼瞳5",
-                2,
-                1
-            ],
-            "7ctMxOx8VFmKW7MFyXt6Wl": [
-                "resources/normal/调用/5/眼瞳5.png",
-                0
-            ],
-            "04zAa3uK1MeblDloNjoqsG": [
-                "resources/normal/调用/5/裙子5",
-                2,
-                1
-            ],
-            "7ej/aK2e1GcbkrJDmzG4j9": [
-                "resources/normal/调用/5/裙子5.png",
-                0
-            ],
-            "b0pLXHr55DEI5FhQboW6iH": [
-                "resources/normal/调用/5/鞋子5",
-                2,
-                1
-            ],
-            "50pDpVG/FNUaLWl5K3IyMY": [
-                "resources/normal/调用/5/鞋子5.png",
-                0
-            ],
-            "e4xVUtpwtOVocxLOw/YN46": [
-                "resources/normal/调用/5/项链5",
-                2,
-                1
-            ],
-            "1d2F4CMXBHzoPXLvSJDnH2": [
-                "resources/normal/调用/5/项链5.png",
-                0
-            ],
-            "83ZQVqynpINIRnqJlS8wtG": [
-                "resources/normal/调用/6/口红6",
-                2,
-                1
-            ],
-            "60DRp0EEtJbpXAGXcMJA1l": [
-                "resources/normal/调用/6/口红6.png",
-                0
-            ],
-            "9dAIdvyQlNmZ3X7mMBDfQL": [
-                "resources/normal/调用/6/头发6",
-                2,
-                1
-            ],
-            "b74h0wtQ1OFKEa1jcenGXm": [
-                "resources/normal/调用/6/头发6.png",
-                0
-            ],
-            "0cNm+0BxlIbZl/H3nF+Qht": [
-                "resources/normal/调用/6/眼瞳6",
-                2,
-                1
-            ],
-            "c0sVu9ZP9J/Z5azP50cRLJ": [
-                "resources/normal/调用/6/眼瞳6.png",
-                0
-            ],
-            "55ARdcj6FMy55edZV1dEQq": [
-                "resources/normal/调用/6/衣服6",
-                2,
-                1
-            ],
-            "12ELJ6EYVAQIXoFKEuXM0h": [
-                "resources/normal/调用/6/衣服6.png",
-                0
-            ],
-            "11EQwoKC5M3ZRQJw6e1V/t": [
-                "resources/normal/调用/6/鞋子6",
-                2,
-                1
-            ],
-            "faI1Se9oFNK6/LfBee24LN": [
-                "resources/normal/调用/6/鞋子6.png",
-                0
-            ],
-            "4aK+1nLUhNxoiy+J4q4rmf": [
-                "resources/normal/调用/6/项链6",
-                2,
-                1
-            ],
-            "efC1UVDy1CMpDbd+BcUaGo": [
-                "resources/normal/调用/6/项链6.png",
-                0
-            ],
-            "edjlh13IxFkZ2TAC+Sb8lR": [
-                "resources/normal/调用/原始人物",
-                2,
-                1
-            ],
-            "0a7hhcy9pCXbMOLaloD1pf": [
-                "resources/normal/调用/原始人物.png",
-                0
-            ],
-            "81Yt15Eq1GHIbOOuo59fMb": [
-                "resources/normal/调用/原始衣物",
-                2,
-                1
-            ],
-            "5dy06Gy0pCb7p2nxvmw+2x": [
-                "resources/normal/调用/原始衣物.png",
-                0
-            ],
-            "31zZ90kSxDo70dtpEnmqK/": [
-                "resources/normal/调用/口红1",
-                2,
-                1
-            ],
-            "feP9wQZQpDFrpe3BveQs1Z": [
-                "resources/normal/调用/口红1.png",
-                0
-            ],
-            "f1qFFNlVFOdpeFUcsYry/6": [
-                "resources/normal/调用/头发",
-                2,
-                1
-            ],
-            "0eqPB1dHdKt72vFbcT3Aot": [
-                "resources/normal/调用/头发.png",
-                0
-            ],
-            "79sKm+5hFKJIh68zEh+4cG": [
-                "resources/normal/调用/眼瞳1",
-                2,
-                1
-            ],
-            "79uPU+jzROhKt1g2RTpYA9": [
-                "resources/normal/调用/眼瞳1.png",
-                0
-            ],
-            "59+S1u15hCybFRnnI/mtSA": [
-                "resources/normal/调用/裙子",
-                2,
-                1
-            ],
-            "b4HQpaO81MJ7LGBagxoo1D": [
-                "resources/normal/调用/裙子.png",
-                0
-            ],
-            "32mHqQIFxJaoKTM1NVu4Hy": [
-                "resources/normal/调用/鞋子",
-                2,
-                1
-            ],
-            "65GJftAoBD6rCH8cLW2D+h": [
-                "resources/normal/调用/鞋子.png",
-                0
-            ],
-            "85tG4MX71IHJwGmyKWjJHo": [
-                "resources/normal/调用/项链1",
-                2,
-                1
-            ],
-            "1fmfCRXHZMtqoHjWx+xCrF": [
-                "resources/normal/调用/项链1.png",
                 0
             ],
             "3eBNj50CJIG6RvTIEkNZxH": [
@@ -2377,19 +1738,19 @@ _CCSettings = {
         },
         {
             url: "db://assets/scene/game.fire",
-            uuid: 69
+            uuid: 70
         },
         {
             url: "db://assets/scene/photo.fire",
-            uuid: 82
+            uuid: 91
         },
         {
             url: "db://assets/scene/choose.fire",
-            uuid: 100
+            uuid: 82
         }
     ],
     packedAssets: {
-        "06e42968": [
+        "02fe49062": [
             0,
             1,
             2,
@@ -2406,9 +1767,10 @@ _CCSettings = {
             12,
             13,
             "93ZSDmGxdA7Id45Jz5D9nQ",
+            47,
             14,
             15,
-            66
+            67
         ],
         "0707eede8": [
             16,
@@ -2449,7 +1811,6 @@ _CCSettings = {
             44,
             45,
             46,
-            "a2MjXRFdtLlYQ5ouAFv/+R",
             47,
             48,
             49,
@@ -2457,83 +1818,86 @@ _CCSettings = {
             51,
             52,
             53,
-            14,
             54,
-            "cdyGW7wCFN6ZmGrVeBwXra",
+            14,
             55,
+            "cdyGW7wCFN6ZmGrVeBwXra",
             56,
             57,
             58,
-            "d7WYRT8V9Lqbsuoib4SBCl",
             59,
+            "d7WYRT8V9Lqbsuoib4SBCl",
             60,
             61,
-            "e3SWlCyUFDa6o+fsLquaBJ",
             62,
+            "e3SWlCyUFDa6o+fsLquaBJ",
             63,
             64,
             65,
             66,
             67,
             68,
-            "f0BIwQ8D5Ml7nTNQbh1YlS",
             69,
+            "f0BIwQ8D5Ml7nTNQbh1YlS",
             70,
             71,
             72,
-            73
+            73,
+            74
         ],
-        "0774cff13": [
-            74,
+        "0725baf3e": [
             75,
-            23,
             76,
-            "3cH+jTIwNLLaZqYIZpL7Un",
+            17,
             77,
             78,
+            23,
             79,
-            9,
+            27,
             80,
-            35,
             81,
-            82,
+            33,
+            47,
+            14,
+            59,
+            67,
+            71,
+            "f8ixVCc5tHBJ/8F2iqwavy",
+            82
+        ],
+        "0774cff13": [
             83,
             84,
-            13,
+            23,
             85,
+            "3cH+jTIwNLLaZqYIZpL7Un",
             86,
             87,
             88,
+            9,
             89,
-            48,
+            35,
             90,
             91,
             92,
-            "c9+lH/PwFGAY+AMl0bEdq3",
-            "ccvhFgUaNPaJDZId9YHRzc",
-            62,
-            63,
-            66,
             93,
-            70
-        ],
-        "096b49c04": [
+            13,
             94,
-            17,
             95,
             96,
-            23,
             97,
-            27,
             98,
+            49,
             99,
-            33,
-            14,
-            58,
-            66,
-            70,
-            "f8ixVCc5tHBJ/8F2iqwavy",
-            100
+            100,
+            101,
+            "c9+lH/PwFGAY+AMl0bEdq3",
+            "ccvhFgUaNPaJDZId9YHRzc",
+            63,
+            64,
+            67,
+            102,
+            71
         ]
     },
     orientation: "",
@@ -2585,6 +1949,7 @@ _CCSettings = {
         "8dTTCG6NxDhaQJtp/dD0R7",
         "9dBaEozERELqVVAP8wT1DL",
         "9djSJWfcRO6blOiQMJ/GAm",
+        "a2MjXRFdtLlYQ5ouAFv/+R",
         "a67f8ik/dP6JtvF5l5zIIw",
         "a7Oa0SItRPFY+iHDjoCxwW",
         "a8j0qGCttK74ujRcUd93KT",
@@ -2612,6 +1977,14 @@ _CCSettings = {
         "faU8/pGkVNK7NUrl/Gl8HV",
         "fbBHN67qZJ5prqiXquHm/p",
         "fb+3uLGKxEZ4tBGqbp73hf",
+        "031dSKyZJNVYTzYigEgNe9",
+        "03+a0Iy6REFKB7ufSH1PjV",
+        "0a8biOI2tCsJwgx8wgin+7",
+        "15qvDGRmpAFoG6MLpVFzcx",
+        "3cXVV5brpAXZ6j2HkXTe2h",
+        "46xvZm+xBCV4yLhIEhmOp9",
+        "5cNT6cATFNSJUhToXYSWVF",
+        "fakL8TBIJDSawJhmOs1pVC",
         "08s5lb8yxPepIRsVsK2e+3",
         "16VEl4iCdPlaMfWyZr3bFn",
         "3azzxG121P84vZcY5lL0z6",
@@ -2631,183 +2004,104 @@ _CCSettings = {
         "bcwL73ORdD9qP3zTh/QLC3",
         "c66ebht2tPR5llk96B1GD9",
         "c7GDCFXjxMLpGUY/hisFxl",
-        "eeqsHd4GxFTa3xDe9PhGpu",
-        "03+a0Iy6REFKB7ufSH1PjV",
-        "0a8biOI2tCsJwgx8wgin+7",
-        "15qvDGRmpAFoG6MLpVFzcx",
-        "3cXVV5brpAXZ6j2HkXTe2h",
-        "46xvZm+xBCV4yLhIEhmOp9",
-        "5cNT6cATFNSJUhToXYSWVF",
-        "fakL8TBIJDSawJhmOs1pVC"
+        "eeqsHd4GxFTa3xDe9PhGpu"
     ],
     "md5AssetsMap": {
         "02/0274a0ee-ad16-4a95-be19-a5f9eec9b36f.json": "105f2",
-        "04/04cc06b7-b8ad-4c79-b943-968363a2ab06.json": "6700a",
+        "02/02fe49062.json": "ab3b6",
         "06/06e1ab85-28d1-4a99-bbe2-6300fab45519.json": "ea9cd",
-        "06/06e42968.json": "7d13d",
-        "07/0707eede8.json": "1b04b",
+        "07/0707eede8.json": "b2014",
+        "07/0725baf3e.json": "e7e22",
         "07/0774cff13.json": "3f249",
-        "09/096b49c04.json": "492f9",
         "0a/0a390d80-7b30-4a3a-9966-9af9f3ab7989.json": "c0855",
-        "0c/0c366fb4-0719-486d-997f-1f79c5f9086d.json": "e5cd5",
         "0d/0d19d493-d6e6-4d0c-a185-36f743a1f065.json": "b0b2c",
-        "0d/0dee0d51-d05c-4588-b1c2-a0cafe337e80.json": "986aa",
         "0e/0ecade15-e95f-48c9-91d8-e660d37e7c3b.json": "7ba59",
-        "0e/0eeaa537-1b63-46f5-ad01-fe1b6b92718f.json": "443d8",
         "10/107b81cd-b293-4b81-924f-736e1ad3286d.json": "0ad20",
         "10/10976fc3-1f6b-4b76-91cc-adb6f566541c.json": "f04a5",
-        "11/11110c28-282e-4cdd-9450-270e9ed55fed.json": "f46d9",
         "12/12089766-a12f-43e1-aa2c-4305226db472.json": "db20c",
         "12/128594be-2071-405f-9717-9ca2428111aa.json": "4bd4c",
         "13/13554b93-10d7-4ec5-8a7d-f66f5e93d941.json": "46bae",
         "16/161a73c6-f33b-4426-b706-4206e64d2a64.json": "99376",
         "16/162b09e5-52d2-4c8b-8d2f-33e16eec0f9e.json": "ad992",
+        "16/1669b4b4-45c6-4c9a-9833-4b0309e10cb6.json": "58a2b",
         "16/16ef2736-4d9e-48c2-a89a-9273e6e4568e.json": "39bc6",
         "18/185cae2d-991c-4bab-9a9f-ddd7e356cee6.json": "ad7c5",
         "1c/1c6b31d4-b350-4ad9-97c5-c81f3ea5737a.json": "b2dab",
         "1c/1cd864de-de33-4af4-a859-0d35e1a2e833.json": "0863c",
-        "1e/1ee6eb99-e309-4fb3-bcf2-f3c8d280f4ac.json": "46e13",
         "2a/2a123602-eebb-49a1-a71a-f3f648955b89.json": "7d111",
+        "2a/2aa46d13-8bee-4ff2-9ab7-b6c5f71ad7ab.json": "42c85",
         "2b/2b7665b3-9e32-446e-a609-ba904a83b281.json": "5a9cd",
+        "2c/2cbe8e7a-63d5-4567-9145-f8659e874534.json": "61c23",
         "2d/2ddd4525-1165-4a07-9c46-31a7c8ce1e15.json": "b195b",
-        "2f/2f597d4d-e918-45e1-9fa2-00e4626302d7.json": "6703f",
         "30/30d85093-5bf3-4583-bc0d-8377e5e97527.json": "0102c",
-        "31/3124cb15-fb16-4c7e-b9e2-56da3ea5be07.json": "dab36",
-        "31/31cd9f74-912c-43a3-bd1d-b691279aa2bf.json": "4028f",
         "32/325ae8f7-e82a-4bcc-88f3-ac469aa128f5.json": "a822a",
-        "32/3295b829-e4e1-4a95-b79e-49f5db0fe57a.json": "4b309",
-        "32/32987a90-205c-496a-8293-335355bb81f2.json": "5926b",
         "32/32fb58bb-0fa6-46f4-a3fc-616787751e9d.json": "b3bcd",
-        "33/33a20eb4-b270-4276-8754-60b5897d9433.json": "1c10f",
         "37/373c3fd1-c0f8-49a5-bc94-b28a742deb0a.json": "88f20",
         "3a/3a35b960-370d-457d-880b-8827f8d40594.json": "72ba0",
-        "3c/3c64a044-ac63-4be4-8fa7-e3da5119ce22.json": "f37cd",
         "45/45900480-b658-4cb4-ac3c-5e64ccbda626.json": "5df46",
-        "47/4769c9cf-d30f-4c8d-9a97-472da79aaf48.json": "39363",
-        "4a/4a2bed67-2d48-4dc6-88b2-f89e2ae2b99f.json": "0e9a0",
         "4a/4a69f7b9-c517-4787-8873-02e75e2fa24b.json": "aeddd",
-        "4d/4ddd558d-2938-40ae-9bb6-db5f2895a5b8.json": "574a4",
         "51/516f4689-7421-496e-8235-c5432381910b.json": "0f8f1",
         "54/540f5f38-50c6-45a9-adeb-62172494cb6f.json": "219e3",
-        "55/5501175c-8fa1-4ccb-9e5e-75957574442a.json": "c9f33",
-        "55/55d1443a-842b-41f5-ace1-65e4afb80c23.json": "296e3",
         "56/562fba49-91d5-4f37-99f8-638c4cd8d9a7.json": "25d8d",
-        "56/56811558-21b9-4877-b6e1-d995e039102b.json": "ee971",
         "56/569a1dc8-e911-439a-b4f5-cc68761acc88.json": "15c45",
         "59/59901544-b7e7-422c-8b67-be3df5dc64f1.json": "2d3f2",
-        "59/59f92d6e-d798-42c9-b151-9e723f9ad480.json": "d99a3",
-        "59/59fb8a05-c93a-464c-a861-b244401f6a2b.json": "577cd",
-        "59/59ffc9f4-fdf7-4440-85d1-d3860941722a.json": "75faf",
         "5b/5b3866c2-b0e6-433a-a571-25f758a2b9ef.json": "46123",
         "5c/5c093e3a-66d4-4b16-b3a0-f4aecf44a9ae.json": "bdbe8",
         "5c/5ccfc8da-8de1-4502-a85e-d6c9b210a29e.json": "9629b",
-        "5f/5f633a56-b238-45c9-9835-3d4d44508316.json": "ffa09",
-        "62/6249311f-2a05-4ef7-8e17-3b8a5e936cb2.json": "c3ba6",
         "62/62d8da35-e1cb-4a98-8692-f8ec6280bc18.json": "2653c",
         "64/64b4d3cb-9df0-456a-a89f-1e85600c065f.json": "93bd2",
         "66/6611378d-f1a9-41eb-8826-d44eeaf7c8e6.json": "b2e84",
         "67/678d62a7-ebfe-4a8b-9dec-b8f6701d5b05.json": "7d2b0",
-        "6a/6a8cac69-93c4-40dd-9e04-e0540e307be9.json": "ca960",
         "6a/6a959e4a-7f2e-4bb4-81f4-8674cf8e1a9f.json": "ebaf8",
-        "6a/6ad2b162-38b6-4a4d-90df-1a711d63de10.json": "327ef",
-        "6b/6bf881d4-dd98-4e15-b9d3-5a8c77aff60a.json": "e57d4",
         "71/719418b0-8eae-451c-a2dd-d5d8f641ab80.json": "b5073",
-        "71/71a963d9-37a2-43d4-9b2b-600cd9594151.json": "728f1",
         "72/72e66b2a-86c2-41c0-a0b9-53cbb370831b.json": "8daeb",
-        "72/72fe3f9b-cb2e-48a6-90b3-2d534e97dd02.json": "17154",
-        "73/7386b93c-b329-4e6f-af43-8c667a2d4815.json": "42137",
-        "73/73e3786b-117e-476f-9f5c-af27eac3e3ac.json": "6ec20",
+        "74/740d60bb-8a95-4f2d-8d8a-9df7ec23d304.json": "db5bb",
         "75/75bfe8d7-5440-4404-a238-5000515e8fe8.json": "0884e",
         "78/783d928a-8157-4275-8a4b-eac890a8f3a9.json": "ce58b",
-        "78/78749bdd-aa4f-49bc-abfd-f38738ef0337.json": "3ff6e",
-        "79/79b0a9be-e611-4a24-887a-f33121fb8706.json": "a57d4",
         "7b/7b539cbc-f37a-4fbc-9959-94387d00ba73.json": "1e6ca",
-        "7d/7ddbdf4c-d3ad-44e8-ab80-6f42002727ed.json": "ab8ff",
         "7d/7de2045d-2842-4b3b-a013-0fa253f220a5.json": "16f38",
         "7f/7fd007ca-8e9b-49df-b913-5a07f88aec4f.json": "2631d",
         "7f/7ff7c73b-261f-4da9-831a-712cdab7ca08.json": "f3d06",
         "80/80a87df8-fb22-47b1-8747-3e38d6040979.json": "6a844",
-        "81/8162dd79-12ad-461c-86ce-3aea39f5f31b.json": "9529e",
         "82/82e7559e-8ba0-4160-a78b-96a19f10b6ed.json": "2cc03",
-        "83/8365056a-ca7a-4834-8467-a89952f30b46.json": "dca9d",
         "84/84828c7c-6f80-416c-86b6-51e170ea1346.json": "806a2",
         "85/85016287-c4ea-42a0-95ec-1a642e1a9de8.json": "0fd25",
         "85/853f4045-b92c-4b65-a908-342cc815ad2f.json": "21365",
-        "85/85b46e0c-5fbd-481c-9c06-9b22968c91e8.json": "0bc55",
         "85/85d8d5a0-1003-4d19-b38c-20d4d695aaea.json": "91879",
-        "87/87d2979d-1a5b-4ba2-8096-77c5b28d5ce9.json": "820f4",
         "88/885f0e5f-78a1-4fac-a155-7a54da1374c4.json": "2add0",
-        "89/895edfbe-eeec-437e-836c-53a1b9ffc861.json": "1f387",
-        "89/8986bdec-7df5-41de-a181-92b5b7c9a606.json": "59e81",
         "8b/8b827590-b071-4ecd-a752-9c776fe03e7f.json": "61bd2",
-        "8b/8b893ad2-250e-4997-a165-7954d2aac33f.json": "48903",
         "8e/8e5530b7-336b-405d-a71b-49df504d864f.json": "f8a33",
         "90/9005a218-1c52-412a-b55c-e5d3582d668e.json": "6294f",
-        "91/910bb6fc-7738-415a-a758-44b25ddb0d36.json": "b8626",
         "93/9305e26f-aa7f-45a5-b17d-370e831259d0.json": "935ca",
-        "93/933565fa-b378-4c10-aa33-04f6ad76ef3c.json": "10834",
-        "93/936f98ac-3255-42aa-89b6-2e620ecf4ae9.json": "b0307",
-        "95/95b52907-7118-432d-9e70-d64083a4936d.json": "ec640",
         "97/977da7f3-6ed9-4a66-912a-243fe2097878.json": "9f1e1",
         "97/97cfa85b-3b52-41df-a65c-598f17315f19.json": "54e1e",
         "98/98957df1-4e04-455b-985a-05ba0c25d90d.json": "82d3c",
-        "9a/9a8e87aa-bc68-44bd-bc58-757f1a3fdbdb.json": "ffdc1",
-        "9b/9b69c6c0-445e-484b-bf6b-b32560943a4f.json": "faeed",
-        "9d/9d00876f-c909-4d99-9dd7-ee63010df40b.json": "697c3",
         "a2/a2e71c1a-9402-40ff-aef3-b32717917e00.json": "4198a",
-        "a5/a5fa709d-99c7-4b30-abec-c3b5c69400b6.json": "33614",
         "a8/a888c3f8-3439-4982-868b-d9e78abad146.json": "dba91",
         "ac/acef1409-a7c3-47d4-a8bc-658839037357.json": "e58b2",
-        "ae/ae637a02-26b5-48e2-a874-298dd643c92e.json": "fb9f4",
         "b0/b021fd89-6a8b-46b3-9445-7eddd4eccf83.json": "00f2f",
-        "b0/b0a4b5c7-af9e-4310-8e45-8506e85ba887.json": "c36f9",
-        "b1/b1f1c98c-5c66-4414-8701-c3ec5753b7d0.json": "92e73",
-        "b5/b54f8907-6605-4f5a-b0be-07f802e917f2.json": "1e634",
         "b6/b61fa9b6-1ad7-4684-a86d-c4d66ba96386.json": "1fae2",
-        "b7/b7ab2404-6eff-414c-bf1a-5621aa5e0abd.json": "0fae2",
-        "b9/b9a667b0-4c52-4acf-8957-455e190a05b4.json": "9e46d",
         "bb/bb614444-a7ad-48a3-a01b-fb1649782f6b.json": "2729f",
-        "be/becfa3b2-3571-4ddb-a7c5-f7fc0684d057.json": "486c7",
-        "c0/c07037fc-4513-4a8f-a3dd-9d72a7456688.json": "eaa1b",
-        "c1/c1abe819-0565-4d57-9d54-cee9d61ac79d.json": "1205d",
         "c1/c1ce4032-b370-4349-a88a-e114ade4fa4f.json": "e487e",
-        "c2/c2cbfb95-6463-4108-9180-cb551c76827d.json": "00c37",
-        "c3/c3bb7aa5-89ec-4806-b3ca-ca2009f5677f.json": "dd816",
         "c5/c50abccd-4dd4-490c-aa62-815414545410.json": "67c75",
         "c7/c72294f2-5cc3-4ded-ad4f-85c9b8ac3c8b.json": "e1be2",
-        "c8/c867c0d9-e08e-45c2-baaa-22434f97cd78.json": "12322",
         "c9/c931f842-8336-4a57-add4-db8537fd4fd1.json": "eb36c",
         "ce/cefb51c5-c18d-4bac-9aa7-74fc98fd6aaf.json": "91e7d",
-        "d4/d4c8bc36-0be1-4b20-906a-67fc46f369d5.json": "16215",
         "d5/d5546a9f-79ea-490b-9f0f-ff677ab4d042.json": "d5bd2",
-        "d6/d63fb7d2-37e4-4904-9060-260bec9d69d4.json": "25ea5",
         "d9/d90ff857-157a-4d98-8855-b54c9a773011.json": "04d67",
-        "da/da709269-2325-4378-b1c0-04ccb6161b6b.json": "20b1d",
         "da/da97d574-613d-473d-a323-2b55ceb64d18.json": "d7a87",
         "db/dbbff684-da19-4c51-866b-2b449aa1db33.json": "509d8",
         "dc/dc334a08-26c2-44c3-97de-2f5ec896b569.json": "63855",
-        "e2/e21938de-e06c-451f-800e-fa01fe218677.json": "fff4d",
         "e2/e23a6904-1341-4792-af62-8788a661fcc7.json": "c1db6",
-        "e3/e3cf3133-87e0-44c0-bb53-c5886e922ba0.json": "7e0b5",
-        "e4/e4c5552d-a70b-4e56-8731-2cec3f60de3a.json": "9a2a4",
-        "e4/e4eeed82-156f-4f05-aea8-b6f6db99b00d.json": "64016",
         "e5/e5076a28-da02-4b66-9463-b00cc3b029d7.json": "3218c",
         "e9/e9b5fc5b-053b-4d4e-b6d3-fc37c8428389.json": "80e09",
         "ed/ed8402b4-85a1-479a-9aff-64fec6a36b86.json": "c7f36",
-        "ed/ed8e5875-dc8c-4591-9d93-002f926fc951.json": "ad83f",
-        "ee/eea5404e-4a52-4ef5-adee-43d73453ef1b.json": "b4b84",
-        "ef/ef142a2f-61ec-4491-8c13-477680850244.json": "1d192",
         "ef/ef6e1056-f234-4fcc-9070-46baf38803b9.json": "ae13a",
-        "f1/f1a8514d-9551-4e76-9785-51cb18af2ffa.json": "fdae6",
-        "f1/f1e2ea41-68f4-43ed-9585-76c9ef60d59c.json": "22d4c",
         "f2/f24a2df9-5d19-46dc-adef-eed66e6fbadd.json": "2763f",
-        "f2/f29d430b-6770-4d9a-a6a2-fd7799a006b8.json": "ea3ae",
         "f2/f2e92d53-717b-4d08-a76d-e99c79627810.json": "d8433",
         "f4/f40a8f06-6ed2-423f-bc62-9d8043dbbead.json": "0c32d",
         "f4/f4ad83fe-73b3-431a-997b-48e277a56524.json": "fd25f",
         "f6/f6f3b78f-9bda-4185-9e50-2310f3c951b5.json": "5ffd0",
-        "f8/f857bbd6-15bf-4853-805b-7ceb3097bd7d.json": "4550f",
-        "fc/fca80233-141c-4c90-94ac-85503bd730a1.json": "2d728",
         "assets/music/anniu.mp3": "31032",
         "assets/music/bjm.mp3": "f28ae",
         "assets/resources/New Folder/1.png": "bd486",
@@ -2844,6 +2138,7 @@ _CCSettings = {
         "assets/resources/New Folder/choose4.png": "e0203",
         "assets/resources/New Folder/choose4s.png": "ff6c7",
         "assets/resources/New Folder/choosebg.png": "e66c7",
+        "assets/resources/New Folder/dian.png": "8a1ca",
         "assets/resources/New Folder/down.png": "11784",
         "assets/resources/New Folder/go.png": "622ab",
         "assets/resources/New Folder/level11.png": "4dd09",
@@ -2880,7 +2175,11 @@ _CCSettings = {
         "assets/resources/New Folder/startBtn.png": "a6bf9",
         "assets/resources/New Folder/suo.png": "a25f3",
         "assets/resources/New Folder/up.png": "5f994",
+        "assets/resources/New Folder/wtis1.png": "26d87",
+        "assets/resources/New Folder/wtis2.png": "041ef",
         "assets/resources/New Folder/xiangCeBg.png": "aa962",
+        "assets/resources/New Folder/zi1.png": "cd5ec",
+        "assets/resources/New Folder/zi2.png": "88b97",
         "assets/resources/New Folder/zjlock.png": "3ea9a",
         "assets/resources/normal/按钮/220972762987357147.png": "60a54",
         "assets/resources/normal/按钮/819212995307060944.png": "c23be",
@@ -2911,82 +2210,6 @@ _CCSettings = {
         "assets/resources/normal/场景/关卡背景/wu.png": "cf530",
         "assets/resources/normal/场景/xiangkuang.png": "c3389",
         "assets/resources/normal/场景/zhu.png": "cc4df",
-        "assets/resources/normal/调用/1/口红1.png": "c2754",
-        "assets/resources/normal/调用/1/裙子1.png": "a3463",
-        "assets/resources/normal/调用/1/人物.png": "f777e",
-        "assets/resources/normal/调用/1/头发1.png": "e83d3",
-        "assets/resources/normal/调用/1/项链1.png": "2c8eb",
-        "assets/resources/normal/调用/1/鞋子1.png": "ec95b",
-        "assets/resources/normal/调用/1/眼瞳1.png": "abd29",
-        "assets/resources/normal/调用/2/口红2.png": "f1476",
-        "assets/resources/normal/调用/2/裙子2.png": "f6e85",
-        "assets/resources/normal/调用/2/头发2.png": "da35a",
-        "assets/resources/normal/调用/2/项链2.png": "af06a",
-        "assets/resources/normal/调用/2/鞋子2.png": "85d99",
-        "assets/resources/normal/调用/2/眼瞳2.png": "7f109",
-        "assets/resources/normal/调用/3/口红3.png": "39efc",
-        "assets/resources/normal/调用/3/裙子3.png": "40cec",
-        "assets/resources/normal/调用/3/头发3.png": "91792",
-        "assets/resources/normal/调用/3/项链3.png": "4e1b5",
-        "assets/resources/normal/调用/3/鞋子3.png": "321b3",
-        "assets/resources/normal/调用/3/眼瞳3.png": "90818",
-        "assets/resources/normal/调用/4/口红4.png": "8a24f",
-        "assets/resources/normal/调用/4/裙子4.png": "3c1ed",
-        "assets/resources/normal/调用/4/头发4.png": "39bf1",
-        "assets/resources/normal/调用/4/项链4.png": "f4228",
-        "assets/resources/normal/调用/4/鞋子4.png": "489b7",
-        "assets/resources/normal/调用/4/眼瞳4.png": "8544e",
-        "assets/resources/normal/调用/5/口红5.png": "4b7e5",
-        "assets/resources/normal/调用/5/裙子5.png": "1df2f",
-        "assets/resources/normal/调用/5/头发5.png": "a7b8f",
-        "assets/resources/normal/调用/5/项链5.png": "7f902",
-        "assets/resources/normal/调用/5/鞋子5.png": "f4f9f",
-        "assets/resources/normal/调用/5/眼瞳5.png": "310b9",
-        "assets/resources/normal/调用/6/口红6.png": "56119",
-        "assets/resources/normal/调用/6/头发6.png": "79871",
-        "assets/resources/normal/调用/6/项链6.png": "d2390",
-        "assets/resources/normal/调用/6/鞋子6.png": "b373b",
-        "assets/resources/normal/调用/6/眼瞳6.png": "b957a",
-        "assets/resources/normal/调用/6/衣服6.png": "46981",
-        "assets/resources/normal/调用/口红1.png": "c2754",
-        "assets/resources/normal/调用/裙子.png": "a3463",
-        "assets/resources/normal/调用/头发.png": "e83d3",
-        "assets/resources/normal/调用/项链1.png": "2c8eb",
-        "assets/resources/normal/调用/鞋子.png": "ec95b",
-        "assets/resources/normal/调用/眼瞳1.png": "54a0c",
-        "assets/resources/normal/调用/原始人物.png": "bdd0e",
-        "assets/resources/normal/调用/原始衣物.png": "ef6d8",
-        "assets/resources/normal/口红/未标题-9_01.png": "28ae5",
-        "assets/resources/normal/口红/未标题-9_02.png": "67356",
-        "assets/resources/normal/口红/未标题-9_03.png": "bd3bd",
-        "assets/resources/normal/口红/未标题-9_04.png": "d3358",
-        "assets/resources/normal/口红/未标题-9_05.png": "61d7d",
-        "assets/resources/normal/口红/未标题-9_06.png": "ce35f",
-        "assets/resources/normal/美瞳/未标题-9_01.png": "fad31",
-        "assets/resources/normal/美瞳/未标题-9_02.png": "6b12b",
-        "assets/resources/normal/美瞳/未标题-9_03.png": "32b28",
-        "assets/resources/normal/美瞳/未标题-9_04.png": "38a9f",
-        "assets/resources/normal/美瞳/未标题-9_05.png": "942c0",
-        "assets/resources/normal/美瞳/未标题-9_06.png": "9be1e",
-        "assets/resources/normal/头发/01.png": "fc163",
-        "assets/resources/normal/头发/02.png": "b9fb3",
-        "assets/resources/normal/头发/03.png": "ecdf8",
-        "assets/resources/normal/头发/04.png": "e3eb3",
-        "assets/resources/normal/头发/05.png": "3b0e4",
-        "assets/resources/normal/头发/06.png": "9442c",
-        "assets/resources/normal/衣服/裙子3（完成）.png": "76506",
-        "assets/resources/normal/衣服/裙子4（完成）.png": "25c81",
-        "assets/resources/normal/衣服/裙子5（完成）.png": "05975",
-        "assets/resources/normal/衣服/裙子6（完成）.png": "61454",
-        "assets/resources/normal/衣服/裙子套2（完成）.png": "32958",
-        "assets/resources/normal/衣服/衣裙1（完成）.png": "b721f",
-        "assets/resources/normal/neck-png/s1.png": "2a767",
-        "assets/resources/normal/neck-png/s2.png": "2522c",
-        "assets/resources/normal/neck-png/s3.png": "3f914",
-        "assets/resources/normal/neck-png/s4.png": "06326",
-        "assets/resources/normal/neck-png/s5.png": "1c6d0",
-        "assets/resources/normal/neck-png/s6.png": "6ddb0",
-        "assets/resources/normal/neck-png/s7.png": "160bd",
         "assets/resources/photo/111.png": "1e1fd",
         "assets/resources/photo/112.png": "f9f66",
         "assets/resources/photo/113.png": "4b114",
