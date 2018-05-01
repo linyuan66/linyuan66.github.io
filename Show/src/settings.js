@@ -86,427 +86,437 @@ _CCSettings = {
                 1
             ],
             "16": [
-                "resources/New Folder/zi1",
-                2,
-                1
-            ],
-            "17": [
-                "resources/New Folder/choose3s",
-                2,
-                1
-            ],
-            "18": [
-                "resources/New Folder/choose2",
-                2,
-                1
-            ],
-            "19": [
-                "resources/New Folder/down",
-                2,
-                1
-            ],
-            "20": [
-                "resources/New Folder/choosebg",
-                2,
-                1
-            ],
-            "22": [
-                "resources/New Folder/choose2s",
-                2,
-                1
-            ],
-            "23": [
-                "resources/New Folder/choose4",
-                2,
-                1
-            ],
-            "24": [
-                "resources/New Folder/lock",
-                2,
-                1
-            ],
-            "25": [
-                "resources/New Folder/choose4s",
-                2,
-                1
-            ],
-            "26": [
-                "resources/New Folder/choose1",
-                2,
-                1
-            ],
-            "28": [
-                "resources/New Folder/choose3",
-                2,
-                1
-            ],
-            "30": [
-                "resources/normal/按钮/back",
-                2,
-                1
-            ],
-            "32": [
-                "resources/New Folder/xiangCeBg",
-                2,
-                1
-            ],
-            "33": [
-                "resources/photo/144",
-                2,
-                1
-            ],
-            "34": [
-                "resources/photo/214",
-                2,
-                1
-            ],
-            "35": [
-                "resources/normal/按钮/del",
-                2,
-                1
-            ],
-            "36": [
-                "resources/photo/353",
-                2,
-                1
-            ],
-            "37": [
-                "resources/normal/场景/xiangkuang",
-                2,
-                1
-            ],
-            "38": [
-                "resources/photo/241",
-                2,
-                1
-            ],
-            "39": [
-                "resources/ren",
-                2,
-                1
-            ],
-            "40": [
-                "resources/photo/111",
-                2,
-                1
-            ],
-            "42": [
-                "resources/photo/442",
-                2,
-                1
-            ],
-            "43": [
-                "resources/photo/454",
-                2,
-                1
-            ],
-            "44": [
-                "resources/photo/232",
-                2,
-                1
-            ],
-            "45": [
-                "resources/photo/341",
-                2,
-                1
-            ],
-            "46": [
-                "resources/photo/121",
-                2,
-                1
-            ],
-            "47": [
-                "resources/photo/414",
-                2,
-                1
-            ],
-            "48": [
-                "resources/photo/132",
-                2,
-                1
-            ],
-            "49": [
-                "resources/New Folder/up",
-                2,
-                1
-            ],
-            "50": [
-                "resources/photo/323",
-                2,
-                1
-            ],
-            "51": [
-                "resources/photo/434",
-                2,
-                1
-            ],
-            "52": [
-                "resources/photo/423",
-                2,
-                1
-            ],
-            "53": [
-                "resources/photo/333",
-                2,
-                1
-            ],
-            "54": [
-                "resources/photo/152",
-                2,
-                1
-            ],
-            "55": [
-                "resources/photo/311",
-                2,
-                1
-            ],
-            "56": [
                 "resources/New Folder/level33",
                 2,
                 1
             ],
-            "57": [
+            "17": [
                 "resources/New Folder/2",
                 2,
                 1
             ],
-            "58": [
+            "18": [
                 "resources/New Folder/level12",
                 2,
                 1
             ],
-            "59": [
+            "19": [
                 "resources/normal/场景/关卡背景/jia",
                 2,
                 1
             ],
-            "60": [
+            "20": [
                 "resources/New Folder/level42",
                 2,
                 1
             ],
-            "61": [
+            "21": [
                 "resources/New Folder/musicOp",
                 2,
                 1
             ],
-            "62": [
-                "resources/normal/按钮/button2",
-                2,
-                1
-            ],
-            "63": [
+            "23": [
                 "resources/New Folder/level35",
                 2,
                 1
             ],
-            "64": [
+            "24": [
                 "resources/New Folder/4",
                 2,
                 1
             ],
-            "65": [
+            "25": [
                 "resources/New Folder/level31",
                 2,
                 1
             ],
-            "66": [
+            "26": [
                 "resources/New Folder/level45",
                 2,
                 1
             ],
-            "67": [
+            "27": [
+                "resources/New Folder/560262083702057013",
+                2,
+                1
+            ],
+            "28": [
                 "resources/New Folder/musicBOf",
                 2,
                 1
             ],
-            "68": [
+            "29": [
                 "resources/normal/场景/关卡背景/wu",
                 2,
                 1
             ],
-            "69": [
+            "30": [
                 "resources/normal/按钮/hairlogo",
                 2,
                 1
             ],
-            "70": [
+            "31": [
                 "resources/normal/场景/关卡背景/jie",
                 2,
                 1
             ],
-            "71": [
+            "32": [
                 "resources/New Folder/go",
                 2,
                 1
             ],
-            "72": [
+            "33": [
                 "resources/New Folder/level13",
                 2,
                 1
             ],
-            "73": [
+            "34": [
+                "resources/ren",
+                2,
+                1
+            ],
+            "35": [
                 "resources/New Folder/level15",
                 2,
                 1
             ],
-            "74": [
+            "36": [
                 "resources/New Folder/44481979061089495",
                 2,
                 1
             ],
-            "75": [
+            "37": [
                 "resources/New Folder/755541909925742540",
                 2,
                 1
             ],
-            "76": [
+            "38": [
                 "resources/New Folder/musicOf",
                 2,
                 1
             ],
-            "77": [
+            "39": [
                 "resources/New Folder/level25",
                 2,
                 1
             ],
-            "78": [
+            "40": [
                 "resources/New Folder/level43",
                 2,
                 1
             ],
-            "79": [
+            "41": [
                 "resources/New Folder/level41",
                 2,
                 1
             ],
-            "80": [
+            "42": [
                 "resources/New Folder/level14",
                 2,
                 1
             ],
-            "81": [
+            "43": [
                 "resources/New Folder/musicBan",
                 2,
                 1
             ],
-            "82": [
+            "44": [
                 "resources/New Folder/3",
                 2,
                 1
             ],
-            "83": [
+            "45": [
+                "resources/New Folder/474693671424053090",
+                2,
+                1
+            ],
+            "46": [
                 "resources/New Folder/musicBOp",
                 2,
                 1
             ],
-            "84": [
+            "47": [
                 "resources/New Folder/level22",
                 2,
                 1
             ],
-            "85": [
+            "49": [
                 "resources/normal/按钮/eye",
                 2,
                 1
             ],
-            "86": [
+            "50": [
+                "resources/New Folder/up",
+                2,
+                1
+            ],
+            "51": [
                 "resources/New Folder/level24",
                 2,
                 1
             ],
-            "87": [
+            "52": [
+                "resources/New Folder/767026057899747902",
+                2,
+                1
+            ],
+            "53": [
                 "resources/New Folder/1",
                 2,
                 1
             ],
-            "88": [
+            "54": [
                 "resources/normal/按钮/xianglianlogo",
                 2,
                 1
             ],
-            "89": [
+            "55": [
                 "resources/New Folder/583122252963070329",
                 2,
                 1
             ],
-            "90": [
+            "56": [
                 "resources/New Folder/level11",
                 2,
                 1
             ],
-            "91": [
+            "57": [
                 "resources/normal/按钮/qunzilogo",
                 2,
                 1
             ],
-            "92": [
+            "58": [
                 "resources/normal/场景/关卡背景/sha",
                 2,
                 1
             ],
-            "93": [
+            "59": [
                 "resources/New Folder/功能键-收集球",
                 2,
                 1
             ],
-            "94": [
+            "60": [
                 "resources/New Folder/level23",
                 2,
                 1
             ],
-            "95": [
+            "61": [
                 "resources/normal/按钮/220972762987357147",
                 2,
                 1
             ],
-            "96": [
+            "62": [
                 "resources/New Folder/photoBtn",
                 2,
                 1
             ],
-            "97": [
+            "63": [
                 "resources/New Folder/功能键-拍照",
                 2,
                 1
             ],
-            "98": [
+            "64": [
                 "resources/New Folder/844989763257548387",
                 2,
                 1
             ],
-            "99": [
+            "65": [
+                "resources/photo/333",
+                2,
+                1
+            ],
+            "66": [
+                "resources/photo/152",
+                2,
+                1
+            ],
+            "67": [
                 "resources/New Folder/musicBack",
                 2,
                 1
             ],
-            "100": [
+            "68": [
                 "resources/New Folder/level34",
                 2,
                 1
             ],
-            "101": [
+            "70": [
                 "resources/New Folder/level44",
                 2,
                 1
             ],
-            "102": [
+            "71": [
                 "resources/normal/按钮/xiezilogo",
                 2,
                 1
             ],
-            "104": [
+            "73": [
+                "resources/normal/按钮/back",
+                2,
+                1
+            ],
+            "74": [
                 "resources/New Folder/level21",
                 2,
                 1
             ],
-            "105": [
+            "75": [
                 "resources/New Folder/main",
                 2,
                 1
             ],
-            "106": [
+            "76": [
                 "resources/New Folder/level32",
+                2,
+                1
+            ],
+            "77": [
+                "resources/New Folder/zi1",
+                2,
+                1
+            ],
+            "78": [
+                "resources/New Folder/choose3s",
+                2,
+                1
+            ],
+            "79": [
+                "resources/New Folder/choose2",
+                2,
+                1
+            ],
+            "80": [
+                "resources/New Folder/down",
+                2,
+                1
+            ],
+            "81": [
+                "resources/New Folder/choosebg",
+                2,
+                1
+            ],
+            "82": [
+                "resources/New Folder/choose2s",
+                2,
+                1
+            ],
+            "83": [
+                "resources/New Folder/choose4",
+                2,
+                1
+            ],
+            "84": [
+                "resources/New Folder/lock",
+                2,
+                1
+            ],
+            "85": [
+                "resources/New Folder/choose4s",
+                2,
+                1
+            ],
+            "86": [
+                "resources/New Folder/choose1",
+                2,
+                1
+            ],
+            "87": [
+                "resources/New Folder/choose3",
+                2,
+                1
+            ],
+            "89": [
+                "resources/New Folder/xiangCeBg",
+                2,
+                1
+            ],
+            "90": [
+                "resources/photo/144",
+                2,
+                1
+            ],
+            "91": [
+                "resources/photo/214",
+                2,
+                1
+            ],
+            "92": [
+                "resources/normal/按钮/del",
+                2,
+                1
+            ],
+            "93": [
+                "resources/photo/353",
+                2,
+                1
+            ],
+            "94": [
+                "resources/normal/场景/xiangkuang",
+                2,
+                1
+            ],
+            "95": [
+                "resources/photo/241",
+                2,
+                1
+            ],
+            "96": [
+                "resources/photo/111",
+                2,
+                1
+            ],
+            "98": [
+                "resources/photo/442",
+                2,
+                1
+            ],
+            "99": [
+                "resources/photo/454",
+                2,
+                1
+            ],
+            "100": [
+                "resources/photo/232",
+                2,
+                1
+            ],
+            "101": [
+                "resources/photo/341",
+                2,
+                1
+            ],
+            "102": [
+                "resources/photo/121",
+                2,
+                1
+            ],
+            "103": [
+                "resources/photo/414",
+                2,
+                1
+            ],
+            "104": [
+                "resources/photo/132",
+                2,
+                1
+            ],
+            "105": [
+                "resources/photo/323",
+                2,
+                1
+            ],
+            "106": [
+                "resources/photo/434",
+                2,
+                1
+            ],
+            "107": [
+                "resources/photo/423",
+                2,
+                1
+            ],
+            "108": [
+                "resources/photo/311",
                 2,
                 1
             ],
@@ -560,6 +570,10 @@ _CCSettings = {
                 "resources/New Folder/44481979061089495.png",
                 0
             ],
+            "8fOVaL0alKqI4CBstcaJa/": [
+                "resources/New Folder/474693671424053090.png",
+                0
+            ],
             "c1zkAys3BDSaiK4RSt5PpP": [
                 "resources/New Folder/487849144897643316",
                 2,
@@ -571,6 +585,10 @@ _CCSettings = {
             ],
             "01boNq939J4aO/X45aRr77": [
                 "resources/New Folder/540784795401040285.png",
+                0
+            ],
+            "efzJmmkbtDJ74D5djmNWJS": [
+                "resources/New Folder/560262083702057013.png",
                 0
             ],
             "a2WVdlQSdPaq8/Zdx8gMr0": [
@@ -606,6 +624,10 @@ _CCSettings = {
             ],
             "3cSODwB6hCVYWOQGc56nG8": [
                 "resources/New Folder/755541909925742540.png",
+                0
+            ],
+            "45sHjiovtN3IS/ZrsJh5R3": [
+                "resources/New Folder/767026057899747902.png",
                 0
             ],
             "c3l8BghXRMTIwTviWmhGhW": [
@@ -987,6 +1009,11 @@ _CCSettings = {
             "db7MtSFNJHpaD6QBSw0olU": [
                 "resources/normal/按钮/button.png",
                 0
+            ],
+            "28cjkGQ09MYLKD0REyY4ot": [
+                "resources/normal/按钮/button2",
+                2,
+                1
             ],
             "b7zM3Uk1tDCbXgsmcrcINa": [
                 "resources/normal/按钮/button2.png",
@@ -1756,15 +1783,15 @@ _CCSettings = {
         },
         {
             url: "db://assets/scene/game.fire",
-            uuid: 103
+            uuid: 72
         },
         {
             url: "db://assets/scene/photo.fire",
-            uuid: 41
+            uuid: 97
         },
         {
             url: "db://assets/scene/choose.fire",
-            uuid: 31
+            uuid: 88
         }
     ],
     packedAssets: {
@@ -1774,7 +1801,7 @@ _CCSettings = {
             2,
             3,
             4,
-            21,
+            22,
             5,
             6,
             7,
@@ -1785,48 +1812,47 @@ _CCSettings = {
             12,
             13,
             "93ZSDmGxdA7Id45Jz5D9nQ",
-            27,
+            48,
             14,
-            29,
+            69,
             15
         ],
-        "0725baf3e": [
+        "04f53c343": [
             16,
             17,
+            "0bBNwyfzZExaa9QR0kJKtW",
             18,
+            "19if0b/ShGLLIQlaAoJAVz",
             19,
             20,
             21,
             22,
+            "297Ang9CREMI2KrEB0CRZh",
+            "2aLAGgSSBGsKoJlGjgOHKh",
             23,
             24,
             25,
             26,
+            5,
             27,
-            14,
+            "46h/WuSrtHWpBoL9HeUrmR",
             28,
+            8,
             29,
             30,
-            "f8ixVCc5tHBJ/8F2iqwavy",
-            31
-        ],
-        "0774cff13": [
+            31,
             32,
             33,
-            21,
             34,
-            "3cH+jTIwNLLaZqYIZpL7Un",
             35,
             36,
             37,
-            10,
             38,
             39,
             40,
             41,
             42,
             43,
-            13,
             44,
             45,
             46,
@@ -1836,86 +1862,89 @@ _CCSettings = {
             50,
             51,
             52,
-            "c9+lH/PwFGAY+AMl0bEdq3",
-            "ccvhFgUaNPaJDZId9YHRzc",
             53,
             54,
-            29,
             55,
-            30
-        ],
-        "0e9b53062": [
             56,
             57,
-            "0bBNwyfzZExaa9QR0kJKtW",
+            14,
             58,
-            "19if0b/ShGLLIQlaAoJAVz",
+            "cdyGW7wCFN6ZmGrVeBwXra",
             59,
             60,
             61,
+            "d7WYRT8V9Lqbsuoib4SBCl",
             62,
-            21,
-            "297Ang9CREMI2KrEB0CRZh",
-            "2aLAGgSSBGsKoJlGjgOHKh",
             63,
             64,
+            "e3SWlCyUFDa6o+fsLquaBJ",
             65,
             66,
-            5,
-            "46h/WuSrtHWpBoL9HeUrmR",
             67,
-            8,
             68,
             69,
             70,
             71,
+            "f0BIwQ8D5Ml7nTNQbh1YlS",
             72,
-            39,
             73,
             74,
             75,
-            76,
+            76
+        ],
+        "0725baf3e": [
             77,
             78,
             79,
             80,
             81,
+            22,
             82,
             83,
             84,
-            27,
             85,
-            49,
             86,
+            48,
+            14,
             87,
-            88,
+            69,
+            73,
+            "f8ixVCc5tHBJ/8F2iqwavy",
+            88
+        ],
+        "0774cff13": [
             89,
             90,
+            22,
             91,
-            14,
+            "3cH+jTIwNLLaZqYIZpL7Un",
             92,
-            "cdyGW7wCFN6ZmGrVeBwXra",
             93,
             94,
+            10,
             95,
-            "d7WYRT8V9Lqbsuoib4SBCl",
+            34,
             96,
             97,
             98,
-            "e3SWlCyUFDa6o+fsLquaBJ",
-            53,
-            54,
             99,
+            13,
             100,
-            29,
             101,
             102,
-            "f0BIwQ8D5Ml7nTNQbh1YlS",
             103,
-            30,
             104,
+            50,
             105,
-            106
+            106,
+            107,
+            "c9+lH/PwFGAY+AMl0bEdq3",
+            "ccvhFgUaNPaJDZId9YHRzc",
+            65,
+            66,
+            69,
+            108,
+            73
         ]
     },
     orientation: "portrait",
@@ -1936,63 +1965,25 @@ _CCSettings = {
         "89U7u8WNtHjpuFh934nCtB",
         "c4Q94XbfNA+73QTAAkByil",
         "f8V/6AzTJEvZuOHLrzCMWo",
-        "031dSKyZJNVYTzYigEgNe9",
-        "03+a0Iy6REFKB7ufSH1PjV",
-        "0a1ePpujxEaLmQzE/FXoR2",
-        "0a8biOI2tCsJwgx8wgin+7",
-        "15qvDGRmpAFoG6MLpVFzcx",
-        "29FYIk+N1GYaeWH/q1NxQO",
-        "3cXVV5brpAXZ6j2HkXTe2h",
-        "41GvlN7hNPZIKIKpnJIuUW",
-        "46xvZm+xBCV4yLhIEhmOp9",
-        "5cNT6cATFNSJUhToXYSWVF",
-        "5dgV8V9N5CjbaCH5y/iIdX",
-        "a2MjXRFdtLlYQ5ouAFv/+R",
-        "d7MqOjJRxLN5iArhnhoW1D",
-        "e97GVMl6JHh5Ml5qEDdSGa",
-        "f2zxvCA8lGDLGztzeho7Pp",
-        "fakL8TBIJDSawJhmOs1pVC",
-        "08s5lb8yxPepIRsVsK2e+3",
-        "16VEl4iCdPlaMfWyZr3bFn",
-        "3azzxG121P84vZcY5lL0z6",
-        "47SUW4XkNOK4vHbd6mY7AE",
-        "4cquDfj1lOY4EFTdmvNGRB",
-        "52fL4pKTlNALye0KlHvXa6",
-        "661mE/gwZCYYVQC+Kk+IUo",
-        "6bWOtE+7VGIrFigxJ0RRM9",
-        "6fcqo7VA5EILZaFruJxzqw",
-        "7d0TOfAkdNSZ6mLVwzzcs+",
-        "846oJ3l65PkoZ3Al7rnj1r",
-        "85i0gJYwtERonm4FL/opaj",
-        "8b3QrzqndJU5tIQJIlFHwv",
-        "8b6tA2sEdHI708uB8+yzbS",
-        "8eg6xkfl9CiI2npzs2HXSv",
-        "9097Yh3OBIv55LctQmjSef",
-        "97OD0mL0FK9pRbAbKa/pUJ",
-        "a7Oa0SItRPFY+iHDjoCxwW",
-        "bcwL73ORdD9qP3zTh/QLC3",
-        "c66ebht2tPR5llk96B1GD9",
-        "c7GDCFXjxMLpGUY/hisFxl",
-        "e5PC6PBgZHkqG8R4ImL+wY",
-        "e6noQVhZpMMKm8eNiW7P1C",
-        "eeqsHd4GxFTa3xDe9PhGpu",
         "06bAKLNPBKYYMzgMeITNbc",
         "064auFKNFKmbviYwD6tFUZ",
         "19UqUu2DhJh732z6urvJkM",
         "1dLw2JNXtLCa2Oqbn8Mvvw",
         "20AZqNRupBu5r5U3kIU/OV",
         "25DT9qXBdNpKH2kQF+iYQ2",
-        "28cjkGQ09MYLKD0REyY4ot",
+        "29FYIk+N1GYaeWH/q1NxQO",
         "32FILnGWxDiYj8bhCD5Kul",
         "32+1i7D6ZG9KP8YWeHdR6d",
         "34mB9UOnBAma9yQVmOYaf7",
         "34se1sxLBCoL4hZCJfsS+e",
+        "41YgZt1ptNCb5/VU8ydH36",
         "4ecaMlC+VIkLp/yX+89Y/6",
         "52Jjd3FjJGWJ1PYJvCk9lV",
         "554CwUOahGfLdlwKdSLSND",
         "556+BN2DRFaq0p9XH5DgRy",
         "57DNKc8NZHBb95hZx0nYTv",
         "685ufsmkRPxoygvRPD2/Au",
+        "6bWOtE+7VGIrFigxJ0RRM9",
         "6dw2nUQi1Il73hznWFVIRJ",
         "73Cf4teIpFQa8Yf+mFtsTJ",
         "78/yWhqmZFg6kOR8SI1gP/",
@@ -2003,10 +1994,14 @@ _CCSettings = {
         "8c1cWBJ2lGH7fiFDiQXo+u",
         "8dTTCG6NxDhaQJtp/dD0R7",
         "97z6hbO1JB36ZcWY8XMV8Z",
+        "9cgMg69AJLb4g3pKXreF6p",
         "9dBaEozERELqVVAP8wT1DL",
         "9djSJWfcRO6blOiQMJ/GAm",
+        "a2MjXRFdtLlYQ5ouAFv/+R",
         "a67f8ik/dP6JtvF5l5zIIw",
+        "a7Oa0SItRPFY+iHDjoCxwW",
         "a8j0qGCttK74ujRcUd93KT",
+        "abUO9aeYFKEYY0HSvcgssy",
         "ac7xQJp8NH1Ki8ZYg5A3NX",
         "b51uVjeANM3rI/RqOnoSFE",
         "b56vN+02xBcq1SqkOayNiB",
@@ -2019,23 +2014,59 @@ _CCSettings = {
         "dbaguRwfZCJa7rkLRk2iKJ",
         "e0a9agyKhCMLmtNZ9ff+Z0",
         "e04dv/PJdK64s9OH6/zvUH",
+        "e5PC6PBgZHkqG8R4ImL+wY",
+        "e6noQVhZpMMKm8eNiW7P1C",
         "e7GwumX8BNe5MfHWPp/jPa",
         "e9rTFMpDJEyrTqQxqsqriv",
+        "e97GVMl6JHh5Ml5qEDdSGa",
         "eaJIl64IxEbaQucvgDUzwD",
         "efuYLYuZhPBp27GI6IrBot",
         "f1Uyr9rQlJhqjmEvBxky7w",
+        "f2zxvCA8lGDLGztzeho7Pp",
         "faU8/pGkVNK7NUrl/Gl8HV",
         "fbBHN67qZJ5prqiXquHm/p",
-        "fb+3uLGKxEZ4tBGqbp73hf"
+        "fb+3uLGKxEZ4tBGqbp73hf",
+        "031dSKyZJNVYTzYigEgNe9",
+        "03+a0Iy6REFKB7ufSH1PjV",
+        "0a1ePpujxEaLmQzE/FXoR2",
+        "0a8biOI2tCsJwgx8wgin+7",
+        "15qvDGRmpAFoG6MLpVFzcx",
+        "3cXVV5brpAXZ6j2HkXTe2h",
+        "41GvlN7hNPZIKIKpnJIuUW",
+        "46xvZm+xBCV4yLhIEhmOp9",
+        "5cNT6cATFNSJUhToXYSWVF",
+        "5dgV8V9N5CjbaCH5y/iIdX",
+        "d7MqOjJRxLN5iArhnhoW1D",
+        "fakL8TBIJDSawJhmOs1pVC",
+        "08s5lb8yxPepIRsVsK2e+3",
+        "16VEl4iCdPlaMfWyZr3bFn",
+        "3azzxG121P84vZcY5lL0z6",
+        "47SUW4XkNOK4vHbd6mY7AE",
+        "4cquDfj1lOY4EFTdmvNGRB",
+        "52fL4pKTlNALye0KlHvXa6",
+        "661mE/gwZCYYVQC+Kk+IUo",
+        "6fcqo7VA5EILZaFruJxzqw",
+        "7d0TOfAkdNSZ6mLVwzzcs+",
+        "846oJ3l65PkoZ3Al7rnj1r",
+        "85i0gJYwtERonm4FL/opaj",
+        "8b3QrzqndJU5tIQJIlFHwv",
+        "8b6tA2sEdHI708uB8+yzbS",
+        "8eg6xkfl9CiI2npzs2HXSv",
+        "9097Yh3OBIv55LctQmjSef",
+        "97OD0mL0FK9pRbAbKa/pUJ",
+        "bcwL73ORdD9qP3zTh/QLC3",
+        "c66ebht2tPR5llk96B1GD9",
+        "c7GDCFXjxMLpGUY/hisFxl",
+        "eeqsHd4GxFTa3xDe9PhGpu"
     ],
     "md5AssetsMap": {
         "01/01750bc9f.json": "f0ccc",
         "02/0274a0ee-ad16-4a95-be19-a5f9eec9b36f.json": "105f2",
+        "04/04f53c343.json": "f1eb6",
         "07/0725baf3e.json": "e7e22",
         "07/0774cff13.json": "3f249",
         "0a/0a390d80-7b30-4a3a-9966-9af9f3ab7989.json": "c0855",
         "0d/0d19d493-d6e6-4d0c-a185-36f743a1f065.json": "b0b2c",
-        "0e/0e9b53062.json": "57184",
         "0e/0ecade15-e95f-48c9-91d8-e660d37e7c3b.json": "7ba59",
         "10/107b81cd-b293-4b81-924f-736e1ad3286d.json": "0ad20",
         "10/10976fc3-1f6b-4b76-91cc-adb6f566541c.json": "f04a5",
@@ -2049,6 +2080,7 @@ _CCSettings = {
         "18/185cae2d-991c-4bab-9a9f-ddd7e356cee6.json": "ad7c5",
         "1c/1c6b31d4-b350-4ad9-97c5-c81f3ea5737a.json": "b2dab",
         "1c/1cd864de-de33-4af4-a859-0d35e1a2e833.json": "0863c",
+        "28/28723906-434f-4c60-b283-d11132638a2d.json": "aa366",
         "2a/2a123602-eebb-49a1-a71a-f3f648955b89.json": "7d111",
         "2a/2aa46d13-8bee-4ff2-9ab7-b6c5f71ad7ab.json": "42c85",
         "2b/2b7665b3-9e32-446e-a609-ba904a83b281.json": "5a9cd",
@@ -2132,13 +2164,16 @@ _CCSettings = {
         "assets/resources/New Folder/3.png": "d0eb6",
         "assets/resources/New Folder/4.png": "b1596",
         "assets/resources/New Folder/44481979061089495.png": "8515c",
+        "assets/resources/New Folder/474693671424053090.png": "363d5",
         "assets/resources/New Folder/487849144897643316.png": "5192d",
         "assets/resources/New Folder/540784795401040285.png": "0e22a",
+        "assets/resources/New Folder/560262083702057013.png": "ae462",
         "assets/resources/New Folder/583122252963070329.png": "e6906",
         "assets/resources/New Folder/61008249537522469.png": "b186f",
         "assets/resources/New Folder/685435640586528905.png": "2af90",
         "assets/resources/New Folder/723724151658719551.png": "8e892",
         "assets/resources/New Folder/755541909925742540.png": "9efbe",
+        "assets/resources/New Folder/767026057899747902.png": "cabef",
         "assets/resources/New Folder/842201780066064957.png": "696c3",
         "assets/resources/New Folder/844989763257548387.png": "f4d18",
         "assets/resources/New Folder/按钮.png": "5a35c",
