@@ -36,37 +36,37 @@ _CCSettings = {
                 1
             ],
             "6": [
-                "resources/New Folder/Bchuangguan",
+                "resources/New Folder/540784795401040285",
                 2,
                 1
             ],
             "7": [
-                "resources/New Folder/suo",
+                "resources/New Folder/Bchuangguan",
                 2,
                 1
             ],
             "8": [
-                "resources/photo/334",
+                "resources/New Folder/suo",
                 2,
                 1
             ],
             "9": [
-                "resources/photo/222",
+                "resources/photo/334",
                 2,
                 1
             ],
             "10": [
-                "resources/photo/114",
+                "resources/photo/222",
                 2,
                 1
             ],
             "11": [
-                "resources/normal/场景/zhu",
+                "resources/photo/114",
                 2,
                 1
             ],
             "12": [
-                "resources/New Folder/start",
+                "resources/normal/场景/zhu",
                 2,
                 1
             ],
@@ -81,7 +81,7 @@ _CCSettings = {
                 1
             ],
             "15": [
-                "resources/New Folder/startBtn",
+                "resources/New Folder/221408634120447060",
                 2,
                 1
             ],
@@ -535,6 +535,10 @@ _CCSettings = {
                 "resources/New Folder/2.png",
                 0
             ],
+            "0dJqXUGzZMTYjhbZsiKW9C": [
+                "resources/New Folder/221408634120447060.png",
+                0
+            ],
             "16KwnlUtJMi40vM+Fu7A+e": [
                 "resources/New Folder/288836429508568942",
                 2,
@@ -563,6 +567,10 @@ _CCSettings = {
             ],
             "92PZkk29pOSLuvpNrv/FAH": [
                 "resources/New Folder/487849144897643316.png",
+                0
+            ],
+            "01boNq939J4aO/X45aRr77": [
+                "resources/New Folder/540784795401040285.png",
                 0
             ],
             "a2WVdlQSdPaq8/Zdx8gMr0": [
@@ -803,9 +811,19 @@ _CCSettings = {
                 "resources/New Folder/photoBtn.png",
                 0
             ],
+            "7cTSyfoMFBIqtkOWa9zp4V": [
+                "resources/New Folder/start",
+                2,
+                1
+            ],
             "17h6lnRspJHZD0NBeRJHe6": [
                 "resources/New Folder/start.png",
                 0
+            ],
+            "cekXTz0rxHmqLiPhYayvuz": [
+                "resources/New Folder/startBtn",
+                2,
+                1
             ],
             "71WO0jPC1OQKvzPqavRgYn": [
                 "resources/New Folder/startBtn.png",
@@ -1750,7 +1768,7 @@ _CCSettings = {
         }
     ],
     packedAssets: {
-        "02fe49062": [
+        "01750bc9f": [
             0,
             1,
             2,
@@ -1769,8 +1787,8 @@ _CCSettings = {
             "93ZSDmGxdA7Id45Jz5D9nQ",
             27,
             14,
-            15,
-            29
+            29,
+            15
         ],
         "0725baf3e": [
             16,
@@ -1801,7 +1819,7 @@ _CCSettings = {
             35,
             36,
             37,
-            9,
+            10,
             38,
             39,
             40,
@@ -1846,7 +1864,7 @@ _CCSettings = {
             5,
             "46h/WuSrtHWpBoL9HeUrmR",
             67,
-            7,
+            8,
             68,
             69,
             70,
@@ -1900,7 +1918,7 @@ _CCSettings = {
             106
         ]
     },
-    orientation: "",
+    orientation: "portrait",
     uuids: [
         "1bb3QOkQVLy6zN6gGHaGRF",
         "21FmhkYuVEX5YRtCA01VAN",
@@ -1908,16 +1926,16 @@ _CCSettings = {
         "25/ZqRfc5OprScWgBCaGL6",
         "28I6+K1z5Lb6fn/a6UyZaR",
         "3aRChL54xBo5K0J2ksU64e",
+        "3aVWcZN/NJlqL07XjQEhNS",
         "40r/du/ydJorr7yvGbo3eC",
         "4fj+jFNFdLLYsyS0tnrBXz",
         "56cwL2R1ZPlYc3r/B170Bu",
         "58HtnYgrRCv4OHI5V859kq",
         "59G6lQmuBD5L58cFgnaVQT",
         "75D0NVJZpM2avJFHIzjW5E",
-        "7cTSyfoMFBIqtkOWa9zp4V",
         "89U7u8WNtHjpuFh934nCtB",
         "c4Q94XbfNA+73QTAAkByil",
-        "cekXTz0rxHmqLiPhYayvuz",
+        "f8V/6AzTJEvZuOHLrzCMWo",
         "031dSKyZJNVYTzYigEgNe9",
         "03+a0Iy6REFKB7ufSH1PjV",
         "0a1ePpujxEaLmQzE/FXoR2",
@@ -2011,8 +2029,8 @@ _CCSettings = {
         "fb+3uLGKxEZ4tBGqbp73hf"
     ],
     "md5AssetsMap": {
+        "01/01750bc9f.json": "f0ccc",
         "02/0274a0ee-ad16-4a95-be19-a5f9eec9b36f.json": "105f2",
-        "02/02fe49062.json": "ab3b6",
         "07/0725baf3e.json": "e7e22",
         "07/0774cff13.json": "3f249",
         "0a/0a390d80-7b30-4a3a-9966-9af9f3ab7989.json": "c0855",
@@ -2061,6 +2079,7 @@ _CCSettings = {
         "75/75bfe8d7-5440-4404-a238-5000515e8fe8.json": "0884e",
         "78/783d928a-8157-4275-8a4b-eac890a8f3a9.json": "ce58b",
         "7b/7b539cbc-f37a-4fbc-9959-94387d00ba73.json": "1e6ca",
+        "7c/7c4d2c9f-a0c1-4122-ab64-3966bdce9e15.json": "e0bb3",
         "7d/7de2045d-2842-4b3b-a013-0fa253f220a5.json": "16f38",
         "7f/7fd007ca-8e9b-49df-b913-5a07f88aec4f.json": "2631d",
         "7f/7ff7c73b-261f-4da9-831a-712cdab7ca08.json": "f3d06",
@@ -2086,6 +2105,7 @@ _CCSettings = {
         "c5/c50abccd-4dd4-490c-aa62-815414545410.json": "67c75",
         "c7/c72294f2-5cc3-4ded-ad4f-85c9b8ac3c8b.json": "e1be2",
         "c9/c931f842-8336-4a57-add4-db8537fd4fd1.json": "eb36c",
+        "ce/ce9174f3-d2bc-479a-a2e2-3e161acafbb3.json": "a4893",
         "ce/cefb51c5-c18d-4bac-9aa7-74fc98fd6aaf.json": "91e7d",
         "d5/d5546a9f-79ea-490b-9f0f-ff677ab4d042.json": "d5bd2",
         "d9/d90ff857-157a-4d98-8855-b54c9a773011.json": "04d67",
@@ -2107,11 +2127,13 @@ _CCSettings = {
         "assets/resources/New Folder/1.png": "bb30a",
         "assets/resources/New Folder/125237470013692386.png": "ab006",
         "assets/resources/New Folder/2.png": "66815",
+        "assets/resources/New Folder/221408634120447060.png": "2565c",
         "assets/resources/New Folder/288836429508568942.png": "224ad",
         "assets/resources/New Folder/3.png": "d0eb6",
         "assets/resources/New Folder/4.png": "b1596",
         "assets/resources/New Folder/44481979061089495.png": "8515c",
         "assets/resources/New Folder/487849144897643316.png": "5192d",
+        "assets/resources/New Folder/540784795401040285.png": "0e22a",
         "assets/resources/New Folder/583122252963070329.png": "e6906",
         "assets/resources/New Folder/61008249537522469.png": "b186f",
         "assets/resources/New Folder/685435640586528905.png": "2af90",
